@@ -1,18 +1,18 @@
 function random_mainpic(){
 		var mainpic=new Array()
-		mainpic[1]="la_icerink.jpg"
-	        mainpic[2]="la_stanleycup.jpg"
-		mainpic[3]="la_teampic.jpg"
-		mainpic[4]="la_win.jpg"
-		mainpic[5]="la_vspens.jpg"
-		mainpic[6]="la_kingsrings.jpg"
-		mainpic[7]="la_icerink.jpg"
-	        mainpic[8]="la_stanleycup.jpg"
-		mainpic[9]="la_teampic.jpg"
-		mainpic[10]="la_win.jpg"
-		mainpic[11]="la_vspens.jpg"
-		mainpic[12]="la_kingsrings.jpg"
-		mainpic[13]="la_wil.jpg"
+		mainpic[1] ="MainPage/la_icerink.jpg"
+	        mainpic[2] ="MainPage/la_stanleycup.jpg"
+		mainpic[3] ="MainPage/la_teampic.jpg"
+		mainpic[4] ="MainPage/la_win.jpg"
+		mainpic[5] ="MainPage/la_vspens.jpg"
+		mainpic[6] ="MainPage/la_kingsrings.jpg"
+		mainpic[7] ="MainPage/la_icerink.jpg"
+	        mainpic[8] ="MainPage/la_stanleycup.jpg"
+		mainpic[9] ="MainPage/la_teampic.jpg"
+		mainpic[10]="MainPage/la_win.jpg"
+		mainpic[11]="MainPage/la_vspens.jpg"
+		mainpic[12]="MainPage/la_kingsrings.jpg"
+		mainpic[13]="MainPage/la_wil.jpg"
 
 		
 
