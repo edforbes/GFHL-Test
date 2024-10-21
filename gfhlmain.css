@@ -279,9 +279,27 @@ h1 {
 	line-height: 19px;
 	}
 
+.text h4, .text h5, .localtext h4, .localtext h5 {
+	margin: 0; 
+	padding: 0 12px;
+	background:#2A4144 url(css/image/h2.gif) repeat-x top left;
+	color: #999;
+	font-size:13px;
+	font-weight: bold;
+	font-family: Verdana, sans-serif; 
+	line-height: 19px;
+	width:600px
+	}
+
 .text h2 span.author {
 	font-weight: normal; 
 	font-size: 11px;
+	}
+
+.text h4 span.author {
+	font-weight: normal; 
+	font-size: 11px;
+	width:600px;
 	}
 
 .text h2 .date, .vevent {
@@ -290,8 +308,20 @@ h1 {
 	float: right; 
 	}
 
+.text h4 .date, .vevent {
+	font-weight: normal; 
+	font-size: 11px;
+	float: right;
+	width:600px; 
+	}
+
 .localtext h2, .localtext h3 {
 	background:#432D2B url(css/image/h2a.gif) repeat-x top left;
+	}
+
+.localtext h4, .localtext h4 {
+	background:#432D2B url(css/image/h2a.gif) repeat-x top left;
+	width:600px
 	}
 
 
