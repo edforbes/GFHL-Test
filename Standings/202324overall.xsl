@@ -396,16 +396,16 @@
 <a class="url" href="201819overall.xml" >2018-19</a>
 </td>
 <td class="no">
-<a class="url" href="Standings/201920overall.xml" >2019-20</a>
+<a class="url" href="201920overall.xml" >2019-20</a>
 </td>
 <td class="no">
-<a class="url" href="Standings/202021overall.xml" >2020-21</a>
+<a class="url" href="202021overall.xml" >2020-21</a>
 </td>
 <td class="no">
-<a class="url" href="Standings/202122overall.xml" >2021-22</a>
+<a class="url" href="202122overall.xml" >2021-22</a>
 </td>
 <td class="no">
-<a class="url" href="Standings/202223overall.xml" >2022-23</a>
+<a class="url" href="202223overall.xml" >2022-23</a>
 </td>
 </tr>
 </table>
