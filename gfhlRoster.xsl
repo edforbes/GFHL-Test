@@ -69,30 +69,79 @@ a.colorforward	 {color:#FFFFFF;}
 
 <b>Rosters</b>
 <p />
-</center>
-<p />
 
-<p />
 <table class="noborder">
 	<tr>
-		<td><center><b>Anaheim Ducks</b></center></td>
+		<td><center><b>Team</b></center></td>
+		<td><center><b>Player's Name</b></center></td>
+		<td><center><b>Position</b></center></td>
 	</tr>
-	<tr>
-		<td><center><b>GM: Tim </b></center></td>
-	</tr>
-	<xsl:for-each select="GFHL/DB/Player[TEAM='ANA']">
+	<xsl:for-each select="GFHL/DB/Player[TEAM!='fa']">
       	<xsl:sort select="NAME" data-type="text" order="ascending"/>
 	<tr>
-		<td class="no">
+		<xsl:choose>
+          	<xsl:when test="TEAM='fa'">
+			<xsl:attribute name="class"> colourfreeagent
+			</xsl:attribute> 
+          	</xsl:when>
+          	<xsl:when test="POS='GLT'">
+			<xsl:attribute name="class">colourgoalie
+			</xsl:attribute> 
+          	</xsl:when>
+          	<xsl:when test="POS='DEF'">
+			<xsl:attribute name="class">colourdefman
+			</xsl:attribute> 
+          	</xsl:when>
+          	<xsl:when test="POS!='FWD'">
+			<xsl:attribute name="class">colourheader
+			</xsl:attribute> 
+          	</xsl:when>
+          	<xsl:otherwise>
+            	</xsl:otherwise>
+		</xsl:choose>
+
+
+		<td class="no"><center>
+                    <xsl:value-of select="TEAM"/>
+                </center></td>
+		<xsl:variable name="_web" select="WEB"/>
+                <td class="no">
 		<center>
-                    	<xsl:value-of select="POS"/>
+		<xsl:choose>
+		<xsl:when test="WEB='http://www.hockeydb.com'">
+			<xsl:value-of select="NAME"/>
+		</xsl:when>
+		<xsl:otherwise>
+			<a href="{$_web}" target="_blank">
+				<xsl:choose>
+          	<xsl:when test="TEAM='fa'">
+			<xsl:attribute name="class">colorfreeagent
+			</xsl:attribute> 
+          	</xsl:when>
+          	<xsl:when test="POS='GLT'">
+			<xsl:attribute name="class">colorgoalie
+			</xsl:attribute> 
+          	</xsl:when>
+          	<xsl:when test="POS='DEF'">
+			<xsl:attribute name="class">colordefman
+			</xsl:attribute> 
+          	</xsl:when>
+          	<xsl:when test="POS='FWD'">
+			<xsl:attribute name="class">colorforward
+			</xsl:attribute> 
+          	</xsl:when>
+
+				</xsl:choose>
+				<xsl:value-of select="NAME"/>
+			</a>
+            	</xsl:otherwise>
+		</xsl:choose>
                 </center>
 		</td>
-		
 		<td class="no">
 		<center>
-			<xsl:value-of select="NAME"/>
-		</center>
+                    <xsl:value-of select="POS"/>
+                </center>
 		</td>
 	</tr>
 	</xsl:for-each>
