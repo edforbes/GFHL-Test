@@ -69,18 +69,6 @@ a.colorforward	 {color:#FFFFFF;}
 
 <b>Rosters</b>
 <p />
-<table class="noborder">
-	<tr>
-	<td class="no"><b>Last Updated:</b>
-	</td>
-	<td class="no"><xsl:value-of select="GFHL/UPDATED"/>	</td>
-	</tr>
-	<tr>
-	<td class="no"><b>Last Transaction:</b></td>
-	<td class="no"><xsl:value-of select="GFHL/LASTTRANS"/>
-	</td>
-	</tr>
-</table>
 </center>
 <p />
 
