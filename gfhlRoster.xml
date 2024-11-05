@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<?xml-stylesheet type="text/xsl" href="My Drive/GFHL/Website/gfhldb.xsl"?>
+<?xml-stylesheet type="text/xsl" href="gfhldbRoster.xsl"?>
 <GFHL>
 	<UPDATED>November 4, 2024</UPDATED>
 	<LASTTRANS>Montreal releases Mike Reilly (D) and Klim Kostin (F)</LASTTRANS>
@@ -3355,7 +3355,7 @@
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
-		<Player><NAME>STÜTZLE, TIM</NAME>
+		<Player><NAME>STÃœTZLE, TIM</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=226509</WEB>
 			<TEAM>TB</TEAM>
 			<POS>FWD</POS>
