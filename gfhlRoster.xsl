@@ -117,9 +117,8 @@ a.colorforward	 {color:#FFFFFF;}
 								<xsl:attribute name="class">colorforward
 								</xsl:attribute> 
 							</xsl:when>
-				
-							<xsl:value-of select="NAME"/>
 						</xsl:choose>
+						<xsl:value-of select="NAME"/>
 			                </center>
 				</td>
 			</tr>
