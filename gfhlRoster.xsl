@@ -199,7 +199,7 @@ a.colorforward	 {color:#FFFFFF;}
 			</td>
 			<td class="no" >
 				<table class="team">
-					<tr>	<td class="no" /><td class="no"> <center> LOS ANGELES </center> </td>						</tr>
+					<tr>	<td class="no" /><td class="no"> <center> LOS ANGELES KINGS</center> </td>						</tr>
 					<tr>	<td class="no" /><td class="no"> <center> GM: <a href="mailto:tblain1@gmail.com"> TOM </a> </center> </td>	</tr>
 					<tr>	<td class="no" /><td class="no"> <br /> </td>									</tr>
 					
@@ -238,7 +238,170 @@ a.colorforward	 {color:#FFFFFF;}
 		
 		</tr>
 	</table>
+	<p />
+	<table class="noborder">
+		<tr>
+			<td class="no" >
+				<table class="team">
+					<tr>	<td class="no" /><td class="no"> <center> NASHVILLE PREDATORS </center> </td>						</tr>
+					<tr> 	<td class="no" /><td class="no"> <center> GM: <a href="mailto:bharwood84@hotmail.com"> BRETT </a> </center></td></tr>
+					<tr>	<td class="no" /><td class="no"> <center>  HC: MIKE FISHER​ </center> </td>									</tr>
+					
+					<xsl:for-each select="GFHL/DB/Player[TEAM='NSH']">
+					      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
+						<tr>
+							<td class="no">
+								<center> <xsl:value-of select="POS"/> </center>
+							</td>
+					                <td class="no">
+								<xsl:value-of select="NAME"/>
+							</td>
+						</tr>
+					</xsl:for-each>
+				</table>
+			</td>
+			<td class="no" >
+				<table class="team">
+					<tr>	<td class="no" /><td class="no"> <center> SAN JOSE SHARKS </center> </td>						</tr>
+					<tr>	<td class="no" /><td class="no"> <center> GM: <a href="mailto:bealls77corvette@gmail.com"> PHIL </a> </center> </td>	</tr>
+					<tr>	<td class="no" /><td class="no"> <center> HC: MIKE RICCI​ </center> </td>						</tr>
+					
+					<xsl:for-each select="GFHL/DB/Player[TEAM='SJ']">
+					      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
+						<tr>
+							<td class="no">
+								<center> <xsl:value-of select="POS"/> </center>
+							</td>
+					                <td class="no">
+								<xsl:value-of select="NAME"/>
+							</td>
+						</tr>
+					</xsl:for-each>
+				</table>
+			</td>
+			<td class="no" >
+				<table class="team">
+					<tr>	<td class="no" /><td class="no"> <center> SEATTLE KRAKEN </center> </td>					</tr>
+					<tr>	<td class="no" /><td class="no"> <center> GM: <a href="mailto:nspaeth@hotmail.com"> NEIL </a> </center> </td>	</tr>
+					<tr>	<td class="no" /><td class="no"> <br /> </td>									</tr>
+					
+					<xsl:for-each select="GFHL/DB/Player[TEAM='SEA']">
+					      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
+						<tr>
+							<td class="no">
+								<center> <xsl:value-of select="POS"/> </center>
+							</td>
+					                <td class="no">
+								<xsl:value-of select="NAME"/>
+							</td>
+						</tr>
+					</xsl:for-each>
+				</table>
+			</td>
+			<td class="no" >
+				<table class="team">
+					<tr>	<td class="no" /><td class="no"> <center> ST. LOUIS BLUES </center> </td>						</tr>
+					<tr>	<td class="no" /><td class="no"> <center> GM: <a href="mailto:cultsuperhero@gmail.com"> MIKE </a> </center> </td>	</tr>
+					<tr>	<td class="no" /><td class="no"> <br /> </td>										</tr>
+					
+					<xsl:for-each select="GFHL/DB/Player[TEAM='STL']">
+					      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
+						<tr>
+							<td class="no">
+								<center> <xsl:value-of select="POS"/> </center>
+							</td>
+					                <td class="no">
+								<xsl:value-of select="NAME"/>
+							</td>
+						</tr>
+					</xsl:for-each>
+				</table>
+			</td>
+		
+		</tr>
+	</table>
+	<p />
+	<table class="noborder">
+		<tr>
+			<td class="no" >
+				<table class="team">
+					<tr>	<td class="no" /><td class="no"> <center> UTAH HOCKEY CLUB </center> </td>						</tr>
+					<tr> 	<td class="no" /><td class="no"> <center> GM: <a href="mailto:mailto:gbunn19@gmail.com"> GARY </a> </center> </td>	</tr>
+					<tr>	<td class="no" /><td class="no"> <center> HC: JEREMY ROENICK </center> </td>						</tr>
 
+					<xsl:for-each select="GFHL/DB/Player[TEAM='UTA']">
+					      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
+						<tr>
+							<td class="no">
+								<center> <xsl:value-of select="POS"/> </center>
+							</td>
+					                <td class="no">
+								<xsl:value-of select="NAME"/>
+							</td>
+						</tr>
+					</xsl:for-each>
+				</table>
+			</td>
+			<td class="no" >
+				<table class="team">
+					<tr>	<td class="no" /><td class="no"> <center> VANCOUVER CANUCKS </center> </td>						</tr>
+					<tr>	<td class="no" /><td class="no"> <center> GM: <a href="mailto:mcgrawtalen@gmail.com"> TALEN </a> </center> </td>	</tr>
+					<tr>	<td class="no" /><td class="no"> <br /> </td>										</tr>
+
+					<xsl:for-each select="GFHL/DB/Player[TEAM='VAN']">
+					      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
+						<tr>
+							<td class="no">
+								<center> <xsl:value-of select="POS"/> </center>
+							</td>
+					                <td class="no">
+								<xsl:value-of select="NAME"/>
+							</td>
+						</tr>
+					</xsl:for-each>
+				</table>
+			</td>
+			<td class="no" >
+				<table class="team">
+					<tr>	<td class="no" /><td class="no"> <center> VEGAS GOLDEN KNIGHTS</center> </td>						</tr>
+					<tr>	<td class="no" /><td class="no"> <center> GM: <a href="mailto:martybaroni@gmail.com"> MARTY </a> </center> </td>	</tr>
+					<tr>	<td class="no" /><td class="no"> <br /> </td>										</tr>
+					
+					<xsl:for-each select="GFHL/DB/Player[TEAM='VGK']">
+					      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
+						<tr>
+							<td class="no">
+								<center> <xsl:value-of select="POS"/> </center>
+							</td>
+					                <td class="no">
+								<xsl:value-of select="NAME"/>
+							</td>
+						</tr>
+					</xsl:for-each>
+				</table>
+			</td>
+			<td class="no" >
+				<table class="team">
+					<tr>	<td class="no" /><td class="no"> <center> WINNIPEG JETS </center> </td>							</tr>
+					<tr>	<td class="no" /><td class="no"> <center> GM: <a href="mailto:kyle.gartner@gmail.com"> KYLE </a> </center> </td>	</tr>
+					<tr>	<td class="no" /><td class="no"> <br /> </td>										</tr>
+					
+					<xsl:for-each select="GFHL/DB/Player[TEAM='WIPG']">
+					      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
+						<tr>
+							<td class="no">
+								<center> <xsl:value-of select="POS"/> </center>
+							</td>
+					                <td class="no">	
+								<xsl:value-of select="NAME"/>
+							</td>
+						</tr>
+					</xsl:for-each>
+				</table>
+			</td>
+		
+		</tr>
+	</table>
 
 
 	
