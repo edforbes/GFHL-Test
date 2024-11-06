@@ -36,7 +36,13 @@ td
                     font-family: Verdana, sans-serif; 
                     border-style: ridge;
                     border-collapse: collapse;} 
-
+    table.team {border-width: 0px;
+                    font-size: 14px;
+                    font-family: Verdana, sans-serif; 
+                    border-style: ridge;
+                    border-collapse: collapse;
+		    width: 285px}
+	
     td.no  {border-width: 0px;
             border-style: ridge; 
             padding: 3px;}
@@ -74,7 +80,7 @@ a.colorforward	 {color:#FFFFFF;}
 	<table class="noborder">
 		<tr>
 			<td class="no" >
-				<table class="noborder">
+				<table class="team">
 					<tr>	<td class="no" /><td class="no">ANAHEIM DUCKS </td>						</tr>
 					<tr> 	<td class="no" /><td class="no">GM: <a href="mailto:timjhamilton@hotmail.com">TIM</a> </td>	</tr>
 					<tr>	<td class="no" /><td class="no"> <br/> </td>							</tr>
@@ -111,7 +117,7 @@ a.colorforward	 {color:#FFFFFF;}
 				</table>
 			</td>
 			<td class="no" >
-				<table class="noborder">
+				<table class="team">
 					<tr>	<td class="no" /><td class="no">CALGARY FLAMES</td>					</tr>
 					<tr>	<td class="no" /><td class="no">GM: <a href="mailto:jachan87@gmail.com">JAY</a></td>	</tr>
 					<tr>	<td class="no" /><td class="no"> <br /> </td>						</tr>
@@ -148,7 +154,7 @@ a.colorforward	 {color:#FFFFFF;}
 				</table>
 			</td>
 			<td class="no" >
-				<table class="noborder">
+				<table class="team">
 					<tr>	<td class="no" /><td class="no">CHICAGO BLACKHAWKS</td>					</tr>
 					<tr>	<td class="no" /><td class="no">GM: <a href="mailto:jdfitz12@yahoo.com">JOHN</a></td>	</tr>
 					<tr>	<td class="no" /><td class="no"> <br /> </td>						</tr>
@@ -185,7 +191,7 @@ a.colorforward	 {color:#FFFFFF;}
 				</table>
 			</td>
 			<td class="no" >
-				<table class="noborder">
+				<table class="team">
 					<tr>	<td class="no" /><td class="no">COLORADO AVALANCHE</td>						</tr>
 					<tr>	<td class="no" /><td class="no">GM: <a href="mailto:hektormcdonnell@gmail.com">SHANNON</a></td>	</tr>
 					<tr>	<td class="no" /><td class="no"> <br /> </td>							</tr>
@@ -228,7 +234,7 @@ a.colorforward	 {color:#FFFFFF;}
 	<table class="noborder">
 		<tr>
 			<td class="no" >
-				<table class="noborder">
+				<table class="team">
 					<tr>	<td class="no" /><td class="no">DALLAS STARS</td>						</tr>
 					<tr> 	<td class="no" /><td class="no">GM: <a href="mailto:mailto:simonyu84@gmail.com">SIMON</a></td>	</tr>
 					<tr>	<td class="no" /><td class="no"> <br /> </td>							</tr>
@@ -265,7 +271,7 @@ a.colorforward	 {color:#FFFFFF;}
 				</table>
 			</td>
 			<td class="no" >
-				<table class="noborder">
+				<table class="team">
 					<tr>	<td class="no" /><td class="no">EDMONTON OILERS</td>						</tr>
 					<tr>	<td class="no" /><td class="no">GM: <a href="mailto:mjohns05@outlook.com">MIKEY</a></td>	</tr>
 					<tr>	<td class="no" /><td class="no">HC: WAYNE GRETZKY</td>						</tr>
@@ -302,7 +308,7 @@ a.colorforward	 {color:#FFFFFF;}
 				</table>
 			</td>
 			<td class="no" >
-				<table class="noborder">
+				<table class="team">
 					<tr>	<td class="no" /><td class="no">LOS ANGELES</td>					</tr>
 					<tr>	<td class="no" /><td class="no">GM: <a href="mailto:tblain1@gmail.com">TOM</a></td>	</tr>
 					<tr>	<td class="no" /><td class="no"> <br /></td>						</tr>
@@ -339,7 +345,7 @@ a.colorforward	 {color:#FFFFFF;}
 				</table>
 			</td>
 			<td class="no" >
-				<table class="noborder">
+				<table class="team">
 					<tr>	<td class="no" /><td class="no">MINNESOTA WILD</td>						</tr>
 					<tr>	<td class="no" /><td class="no">GM: <a href="mailto:leduc_paul@hotmail.com">PAUL</a></td>	</tr>
 					<tr>	<td class="no" /><td class="no">HC: MARIAN GABORIK​ </td>					</tr>
