@@ -386,7 +386,7 @@ a.colorforward	 {color:#FFFFFF;}
 					<tr>	<td class="no" /><td class="no"> <center> GM: <a href="mailto:kyle.gartner@gmail.com"> KYLE </a> </center> </td>	</tr>
 					<tr>	<td class="no" /><td class="no"> <br /> </td>										</tr>
 					
-					<xsl:for-each select="GFHL/DB/Player[TEAM='WIPG']">
+					<xsl:for-each select="GFHL/DB/Player[TEAM='WPG']">
 					      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
 						<tr>
 							<td class="no">
