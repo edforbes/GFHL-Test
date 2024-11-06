@@ -71,11 +71,11 @@ a.colorforward	 {color:#FFFFFF;}
 	<p />
 	<p />
 	<p />
+
+
 	<table class="noborder">
-		<tr>	<td>ANAHEIM DUCKS</td>	</tr>
-		<tr>	<td>GM: <a href="mailto:timjhamilton@hotmail.com">Tim</a></td>	</tr>
-	</table>
-	<table class="noborder">
+		<tr>	<td/><td class="no">ANAHEIM DUCKS</td>	</tr>
+		<tr>	<td /><td class="no">GM: <a href="mailto:timjhamilton@hotmail.com">Tim</a></td>	</tr>
 		<tr>
 			<td class="no"><center><b>Position</b></center></td>
 			<td class="no"><center><b>Player's Name</b></center></td>
