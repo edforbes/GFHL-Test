@@ -27,7 +27,7 @@ td
 	border-color:#FFFFFF;
         border-style:ridge;   
         padding:3px; 
-        color:#FFFFFF;
+
 }
 
 /* Tables  */
@@ -50,7 +50,16 @@ td
                     border-style: ridge;
                     border-collapse: collapse;
 		    width: 285px;
-		    background: black;
+		    background: #000000;
+	            color: ##89734C;}
+
+		table.TeamRosterANA {border-width: 0px;
+                    font-size: 14px;
+                    font-family: Verdana, sans-serif;
+                    border-style: ridge;
+                    border-collapse: collapse;
+		    width: 285px;
+		    background-image: url("image\Rosters\Anaheim");
 	            color: #CF4520;}
 	
 td.no  {border-width: 0px;
@@ -93,7 +102,7 @@ a.colorforward	 {color:#FFFFFF;}
 					<tr> 	<td class="no" /><td class="no"> <center> GM: <a href="mailto:timjhamilton@hotmail.com"> TIM </a> </center></td></tr>
 					<tr>	<td class="no" /><td class="no"> <br/> </td>									</tr>
 				</table>
-				<table class="team">
+				<table class="TeamRosterANA">
 					<xsl:for-each select="GFHL/DB/Player[TEAM='ANA']">
 					      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
 						<tr>
