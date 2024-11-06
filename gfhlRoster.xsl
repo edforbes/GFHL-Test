@@ -73,7 +73,7 @@ a.colorforward	 {color:#FFFFFF;}
 	<p />
 	<table class="noborder">
 		<tr>
-			<td class="no" />
+			<td class="no" >
 				<table class="noborder">
 					<tr>	<td class="no" /><td class="no">ANAHEIM DUCKS</td>	</tr>
 					<tr>	<td class="no" /><td class="no">GM: <a href="mailto:timjhamilton@hotmail.com">TIM</a></td>	</tr>
