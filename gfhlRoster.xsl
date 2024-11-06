@@ -71,14 +71,14 @@ a.colorforward	 {color:#FFFFFF;}
 
 <body>
 
-	<center> <b> Rosters </b> </center>
+	<center> <b> Western Rosters </b> </center>
 	<p />
 	<p />
 	<p />
 	<table class="noborder">
 		<tr>
 			<td class="no" >
-				<table class="team">
+				<table class="team"; background-image: URL(image\Rosters\Anaheim); width:285px; height:485px >
 					<tr>	<td class="no" /><td class="no"> <center> ANAHEIM DUCKS </center> </td>						</tr>
 					<tr> 	<td class="no" /><td class="no"> <center> GM: <a href="mailto:timjhamilton@hotmail.com"> TIM </a> </center></td></tr>
 					<tr>	<td class="no" /><td class="no"> <br/> </td>									</tr>
