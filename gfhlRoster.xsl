@@ -71,9 +71,7 @@ a.colorforward	 {color:#FFFFFF;}
 
 <body>
 
-	<center>
-		<b>Rosters</b>
-	</center>
+	<center> <b> Rosters </b> </center>
 	<p />
 	<p />
 	<p />
@@ -81,33 +79,17 @@ a.colorforward	 {color:#FFFFFF;}
 		<tr>
 			<td class="no" >
 				<table class="team">
-					<tr>	<td class="no" /><td class="no"><center>ANAHEIM DUCKS</center></td>						</tr>
-					<tr> 	<td class="no" /><td class="no"><center>GM: <a href="mailto:timjhamilton@hotmail.com">TIM</a> </center></td>	</tr>
+					<tr>	<td class="no" /><td class="no"> <center> ANAHEIM DUCKS </center> </td>						</tr>
+					<tr> 	<td class="no" /><td class="no"> <center> GM: <a href="mailto:timjhamilton@hotmail.com"> TIM </a> </center></td></tr>
 					<tr>	<td class="no" /><td class="no"> <br/> </td>									</tr>
 					
 					<xsl:for-each select="GFHL/DB/Player[TEAM='ANA']">
 					      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
 						<tr>
 							<td class="no">
-								<center>
-					                    		<xsl:value-of select="POS"/>
-					               		</center>
+								<center> <xsl:value-of select="POS"/> </center>
 							</td>
 					                <td class="no">
-								<xsl:choose>
-									<xsl:when test="POS='GLT'">
-										<xsl:attribute name="class">colorgoalie
-										</xsl:attribute> 
-									</xsl:when>
-									<xsl:when test="POS='DEF'">
-										<xsl:attribute name="class">colordefman
-										</xsl:attribute> 
-									</xsl:when>
-									<xsl:when test="POS='FWD'">
-										<xsl:attribute name="class">colorforward
-										</xsl:attribute> 
-									</xsl:when>
-								</xsl:choose>
 								<xsl:value-of select="NAME"/>
 							</td>
 						</tr>
@@ -116,33 +98,17 @@ a.colorforward	 {color:#FFFFFF;}
 			</td>
 			<td class="no" >
 				<table class="team">
-					<tr>	<td class="no" /><td class="no"><center>CALGARY FLAMES</center></td>					</tr>
-					<tr>	<td class="no" /><td class="no"><center>GM: <a href="mailto:jachan87@gmail.com">JAY</a></center></td>	</tr>
-					<tr>	<td class="no" /><td class="no"> <br /> </td>								</tr>
+					<tr>	<td class="no" /><td class="no"> <center> CALGARY FLAMES </center> </td>					</tr>
+					<tr>	<td class="no" /><td class="no"> <center> GM: <a href="mailto:jachan87@gmail.com"> JAY </a> </center> </td>	</tr>
+					<tr>	<td class="no" /><td class="no"> <br /> </td>									</tr>
 					
 					<xsl:for-each select="GFHL/DB/Player[TEAM='CGY']">
 					      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
 						<tr>
 							<td class="no">
-								<center>
-					                    		<xsl:value-of select="POS"/>
-					               		</center>
+								<center> <xsl:value-of select="POS"/> </center>
 							</td>
 					                <td class="no">
-								<xsl:choose>
-									<xsl:when test="POS='GLT'">
-										<xsl:attribute name="class">colorgoalie
-										</xsl:attribute> 
-									</xsl:when>
-									<xsl:when test="POS='DEF'">
-										<xsl:attribute name="class">colordefman
-										</xsl:attribute> 
-									</xsl:when>
-									<xsl:when test="POS='FWD'">
-										<xsl:attribute name="class">colorforward
-										</xsl:attribute> 
-									</xsl:when>
-								</xsl:choose>
 								<xsl:value-of select="NAME"/>
 							</td>
 						</tr>
@@ -151,33 +117,17 @@ a.colorforward	 {color:#FFFFFF;}
 			</td>
 			<td class="no" >
 				<table class="team">
-					<tr>	<td class="no" /><td class="no"><center>CHICAGO BLACKHAWKS</center></td>				</tr>
-					<tr>	<td class="no" /><td class="no"><center>GM: <a href="mailto:jdfitz12@yahoo.com">JOHN</a></center></td>	</tr>
-					<tr>	<td class="no" /><td class="no"> <br /> </td>								</tr>
+					<tr>	<td class="no" /><td class="no"> <center> CHICAGO BLACKHAWKS </center> </td>					</tr>
+					<tr>	<td class="no" /><td class="no"> <center> GM: <a href="mailto:jdfitz12@yahoo.com"> JOHN </a> </center> </td>	</tr>
+					<tr>	<td class="no" /><td class="no"> <br /> </td>									</tr>
 					
 					<xsl:for-each select="GFHL/DB/Player[TEAM='CHI']">
 					      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
 						<tr>
 							<td class="no">
-								<center>
-					                    		<xsl:value-of select="POS"/>
-					               		</center>
+								<center> <xsl:value-of select="POS"/> </center>
 							</td>
 					                <td class="no">
-								<xsl:choose>
-									<xsl:when test="POS='GLT'">
-										<xsl:attribute name="class">colorgoalie
-										</xsl:attribute> 
-									</xsl:when>
-									<xsl:when test="POS='DEF'">
-										<xsl:attribute name="class">colordefman
-										</xsl:attribute> 
-									</xsl:when>
-									<xsl:when test="POS='FWD'">
-										<xsl:attribute name="class">colorforward
-										</xsl:attribute> 
-									</xsl:when>
-								</xsl:choose>
 								<xsl:value-of select="NAME"/>
 							</td>
 						</tr>
@@ -186,33 +136,17 @@ a.colorforward	 {color:#FFFFFF;}
 			</td>
 			<td class="no" >
 				<table class="team">
-					<tr>	<td class="no" /><td class="no"><center>COLORADO AVALANCHE</center></td>						</tr>
-					<tr>	<td class="no" /><td class="no"><center>GM: <a href="mailto:hektormcdonnell@gmail.com">SHANNON</a></center></td>	</tr>
+					<tr>	<td class="no" /><td class="no"> <center> COLORADO AVALANCHE </center> </td>						</tr>
+					<tr>	<td class="no" /><td class="no"> <center> GM: <a href="mailto:hektormcdonnell@gmail.com"> SHANNON </a> </center> </td>	</tr>
 					<tr>	<td class="no" /><td class="no"> <br /> </td>										</tr>
 					
 					<xsl:for-each select="GFHL/DB/Player[TEAM='COL']">
 					      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
 						<tr>
 							<td class="no">
-								<center>
-					                    		<xsl:value-of select="POS"/>
-					               		</center>
+								<center> <xsl:value-of select="POS"/> </center>
 							</td>
 					                <td class="no">
-								<xsl:choose>
-									<xsl:when test="POS='GLT'">
-										<xsl:attribute name="class">colorgoalie
-										</xsl:attribute> 
-									</xsl:when>
-									<xsl:when test="POS='DEF'">
-										<xsl:attribute name="class">colordefman
-										</xsl:attribute> 
-									</xsl:when>
-									<xsl:when test="POS='FWD'">
-										<xsl:attribute name="class">colorforward
-										</xsl:attribute> 
-									</xsl:when>
-								</xsl:choose>
 								<xsl:value-of select="NAME"/>
 							</td>
 						</tr>
@@ -227,33 +161,17 @@ a.colorforward	 {color:#FFFFFF;}
 		<tr>
 			<td class="no" >
 				<table class="team">
-					<tr>	<td class="no" /><td class="no"><center>DALLAS STARS</center></td>						</tr>
-					<tr> 	<td class="no" /><td class="no"><center>GM: <a href="mailto:mailto:simonyu84@gmail.com">SIMON</a></center></td>	</tr>
-					<tr>	<td class="no" /><td class="no"> <br /> </td>									</tr>
+					<tr>	<td class="no" /><td class="no"> <center> DALLAS STARS </center> </td>							</tr>
+					<tr> 	<td class="no" /><td class="no"> <center> GM: <a href="mailto:mailto:simonyu84@gmail.com"> SIMON </a> </center> </td>	</tr>
+					<tr>	<td class="no" /><td class="no"> <br /> </td>										</tr>
 
 					<xsl:for-each select="GFHL/DB/Player[TEAM='DAL']">
 					      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
 						<tr>
 							<td class="no">
-								<center>
-					                    		<xsl:value-of select="POS"/>
-					               		</center>
+								<center> <xsl:value-of select="POS"/> </center>
 							</td>
 					                <td class="no">
-								<xsl:choose>
-									<xsl:when test="POS='GLT'">
-										<xsl:attribute name="class">colorgoalie
-										</xsl:attribute> 
-									</xsl:when>
-									<xsl:when test="POS='DEF'">
-										<xsl:attribute name="class">colordefman
-										</xsl:attribute> 
-									</xsl:when>
-									<xsl:when test="POS='FWD'">
-										<xsl:attribute name="class">colorforward
-										</xsl:attribute> 
-									</xsl:when>
-								</xsl:choose>
 								<xsl:value-of select="NAME"/>
 							</td>
 						</tr>
@@ -262,33 +180,17 @@ a.colorforward	 {color:#FFFFFF;}
 			</td>
 			<td class="no" >
 				<table class="team">
-					<tr>	<td class="no" /><td class="no"><center>EDMONTON OILERS</center></td>						</tr>
-					<tr>	<td class="no" /><td class="no"><center>GM: <a href="mailto:mjohns05@outlook.com">MIKEY</a></center></td>	</tr>
-					<tr>	<td class="no" /><td class="no"><center>HC: WAYNE GRETZKY</center></td>						</tr>
+					<tr>	<td class="no" /><td class="no"> <center> EDMONTON OILERS </center> </td>					</tr>
+					<tr>	<td class="no" /><td class="no"> <center> GM: <a href="mailto:mjohns05@outlook.com"> MIKEY </a> </center> </td>	</tr>
+					<tr>	<td class="no" /><td class="no"> <center> HC: WAYNE GRETZKY </center> </td>					</tr>
 
 					<xsl:for-each select="GFHL/DB/Player[TEAM='EDM']">
 					      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
 						<tr>
 							<td class="no">
-								<center>
-					                    		<xsl:value-of select="POS"/>
-					               		</center>
+								<center> <xsl:value-of select="POS"/> </center>
 							</td>
 					                <td class="no">
-								<xsl:choose>
-									<xsl:when test="POS='GLT'">
-										<xsl:attribute name="class">colorgoalie
-										</xsl:attribute> 
-									</xsl:when>
-									<xsl:when test="POS='DEF'">
-										<xsl:attribute name="class">colordefman
-										</xsl:attribute> 
-									</xsl:when>
-									<xsl:when test="POS='FWD'">
-										<xsl:attribute name="class">colorforward
-										</xsl:attribute> 
-									</xsl:when>
-								</xsl:choose>
 								<xsl:value-of select="NAME"/>
 							</td>
 						</tr>
@@ -297,33 +199,17 @@ a.colorforward	 {color:#FFFFFF;}
 			</td>
 			<td class="no" >
 				<table class="team">
-					<tr>	<td class="no" /><td class="no"><center>LOS ANGELES</center></td>					</tr>
-					<tr>	<td class="no" /><td class="no"><center>GM: <a href="mailto:tblain1@gmail.com">TOM</a></center></td>	</tr>
-					<tr>	<td class="no" /><td class="no"> <br /></td>								</tr>
+					<tr>	<td class="no" /><td class="no"> <center> LOS ANGELES </center> </td>						</tr>
+					<tr>	<td class="no" /><td class="no"> <center> GM: <a href="mailto:tblain1@gmail.com"> TOM </a> </center> </td>	</tr>
+					<tr>	<td class="no" /><td class="no"> <br /> </td>									</tr>
 					
 					<xsl:for-each select="GFHL/DB/Player[TEAM='LA']">
 					      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
 						<tr>
 							<td class="no">
-								<center>
-					                    		<xsl:value-of select="POS"/>
-					               		</center>
+								<center> <xsl:value-of select="POS"/> </center>
 							</td>
 					                <td class="no">
-								<xsl:choose>
-									<xsl:when test="POS='GLT'">
-										<xsl:attribute name="class">colorgoalie
-										</xsl:attribute> 
-									</xsl:when>
-									<xsl:when test="POS='DEF'">
-										<xsl:attribute name="class">colordefman
-										</xsl:attribute> 
-									</xsl:when>
-									<xsl:when test="POS='FWD'">
-										<xsl:attribute name="class">colorforward
-										</xsl:attribute> 
-									</xsl:when>
-								</xsl:choose>
 								<xsl:value-of select="NAME"/>
 							</td>
 						</tr>
@@ -332,33 +218,17 @@ a.colorforward	 {color:#FFFFFF;}
 			</td>
 			<td class="no" >
 				<table class="team">
-					<tr>	<td class="no" /><td class="no"><center>MINNESOTA WILD</center></td>						</tr>
-					<tr>	<td class="no" /><td class="no"><center>GM: <a href="mailto:leduc_paul@hotmail.com">PAUL</a></center></td>	</tr>
-					<tr>	<td class="no" /><td class="no"><center>HC: MARIAN GABORIK​</center> </td>					</tr>
+					<tr>	<td class="no" /><td class="no"> <center> MINNESOTA WILD </center> </td>						</tr>
+					<tr>	<td class="no" /><td class="no"> <center> GM: <a href="mailto:leduc_paul@hotmail.com"> PAUL </a> </center> </td>	</tr>
+					<tr>	<td class="no" /><td class="no"> <center> HC: MARIAN GABORIK ​</center> </td>						</tr>
 					
 					<xsl:for-each select="GFHL/DB/Player[TEAM='MIN']">
 					      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
 						<tr>
 							<td class="no">
-								<center>
-					                    		<xsl:value-of select="POS"/>
-					               		</center>
+								<center> <xsl:value-of select="POS"/> </center>
 							</td>
-					                <td class="no">
-								<xsl:choose>
-									<xsl:when test="POS='GLT'">
-										<xsl:attribute name="class">colorgoalie
-										</xsl:attribute> 
-									</xsl:when>
-									<xsl:when test="POS='DEF'">
-										<xsl:attribute name="class">colordefman
-										</xsl:attribute> 
-									</xsl:when>
-									<xsl:when test="POS='FWD'">
-										<xsl:attribute name="class">colorforward
-										</xsl:attribute> 
-									</xsl:when>
-								</xsl:choose>
+					                <td class="no">	
 								<xsl:value-of select="NAME"/>
 							</td>
 						</tr>
