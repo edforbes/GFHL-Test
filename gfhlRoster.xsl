@@ -36,6 +36,7 @@ td
                     font-family: Verdana, sans-serif; 
                     border-style: ridge;
                     border-collapse: collapse;} 
+	
     table.team {border-width: 0px;
                     font-size: 14px;
                     font-family: Verdana, sans-serif; 
@@ -43,7 +44,16 @@ td
                     border-collapse: collapse;
 		    width: 285px}
 	
-    td.no  {border-width: 0px;
+	table.TeamTitleANA {border-width: 0px;
+                    font-size: 14px;
+                    font-family: Verdana, sans-serif;
+                    border-style: ridge;
+                    border-collapse: collapse;
+		    width: 285px;
+		    background: black;
+	            color: #CF4520;}
+	
+td.no  {border-width: 0px;
             border-style: ridge; 
             padding: 3px;}
 
@@ -78,11 +88,12 @@ a.colorforward	 {color:#FFFFFF;}
 	<table class="noborder">
 		<tr>
 			<td class="no" >
-				<table class="team">
+				<table class="TeamTitleANA">
 					<tr>	<td class="no" /><td class="no"> <center> ANAHEIM DUCKS </center> </td>						</tr>
 					<tr> 	<td class="no" /><td class="no"> <center> GM: <a href="mailto:timjhamilton@hotmail.com"> TIM </a> </center></td></tr>
 					<tr>	<td class="no" /><td class="no"> <br/> </td>									</tr>
-					
+				</table>
+				<table class="team">
 					<xsl:for-each select="GFHL/DB/Player[TEAM='ANA']">
 					      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
 						<tr>
