@@ -16,7 +16,7 @@ body
 }
 table 
 {	border-width:2px;	
-        font-size:18px; 	
+        font-size:14px; 	
         border-color:#ffffff; 	
         border-style:ridge;  
         border-collapse:collapse;
@@ -32,7 +32,7 @@ td
 
 /* Tables  */
     table.noborder {border-width: 0px;
-                    font-size: 18px;
+                    font-size: 14px;
                     font-family: Verdana, sans-serif; 
                     border-style: ridge;
                     border-collapse: collapse;} 
@@ -75,11 +75,13 @@ a.colorforward	 {color:#FFFFFF;}
 		<tr>
 			<td class="no" >
 				<table class="noborder">
-					<tr>	<td class="no" /><td class="no">ANAHEIM DUCKS</td>	</tr>
-					<tr>	<td class="no" /><td class="no">GM: <a href="mailto:timjhamilton@hotmail.com">TIM</a></td>	</tr>
+					<tr>	<td class="no" />
+						<td class="no">ANAHEIM <br /> DUCKS </td></tr>
+					<tr> <td class="no" /><td>GM: <a href="mailto:timjhamilton@hotmail.com">TIM</a></td>	
+					</tr>
 					<tr>
-						<td class="no"><center><b>Position</b></center></td>
-						<td class="no"><center><b>Player's Name</b></center></td>
+						<td class="no" />
+						<td class="no" />
 					</tr>
 					<xsl:for-each select="GFHL/DB/Player[TEAM='ANA']">
 					      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
