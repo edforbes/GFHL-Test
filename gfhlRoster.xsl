@@ -76,8 +76,10 @@ a.colorforward	 {color:#FFFFFF;}
 			<td class="no" >
 				<table class="noborder">
 					<tr>	<td class="no" />
-						<td class="no">ANAHEIM <br /> DUCKS </td></tr>
-					<tr> <td class="no" /><td>GM: <a href="mailto:timjhamilton@hotmail.com">TIM</a></td>	
+						<td class="no">ANAHEIM DUCKS </td>
+					</tr>
+					<tr> 	<td class="no" />
+						<td>GM: <a href="mailto:timjhamilton@hotmail.com">TIM</a></td>	
 					</tr>
 					<tr>
 						<td class="no" />
@@ -119,8 +121,8 @@ a.colorforward	 {color:#FFFFFF;}
 					<tr>	<td class="no" /><td class="no">CALGARY FLAMES</td>	</tr>
 					<tr>	<td class="no" /><td class="no">GM: <a href="mailto:jachan87@gmail.com">JAY</a></td>	</tr>
 					<tr>
-						<td class="no"><center><b>Position</b></center></td>
-						<td class="no"><center><b>Player's Name</b></center></td>
+						<td class="no" />
+						<td class="no" />
 					</tr>
 					<xsl:for-each select="GFHL/DB/Player[TEAM='CGY']">
 					      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
@@ -158,8 +160,8 @@ a.colorforward	 {color:#FFFFFF;}
 					<tr>	<td class="no" /><td class="no">CHICAGO BLACKHAWKS</td>	</tr>
 					<tr>	<td class="no" /><td class="no">GM: <a href="mailto:jdfitz12@yahoo.com">JOHN</a></td>	</tr>
 					<tr>
-						<td class="no"><center><b>Position</b></center></td>
-						<td class="no"><center><b>Player's Name</b></center></td>
+						<td class="no" />
+						<td class="no" />
 					</tr>
 					<xsl:for-each select="GFHL/DB/Player[TEAM='CHI']">
 					      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
@@ -197,8 +199,8 @@ a.colorforward	 {color:#FFFFFF;}
 					<tr>	<td class="no" /><td class="no">COLORADO AVALANCHE</td>	</tr>
 					<tr>	<td class="no" /><td class="no">GM: <a href="mailto:hektormcdonnell@gmail.com">SHANNON</a></td>	</tr>
 					<tr>
-						<td class="no"><center><b>Position</b></center></td>
-						<td class="no"><center><b>Player's Name</b></center></td>
+						<td class="no" />
+						<td class="no" />
 					</tr>
 					<xsl:for-each select="GFHL/DB/Player[TEAM='COL']">
 					      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
