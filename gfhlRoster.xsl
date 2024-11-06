@@ -72,6 +72,10 @@ a.colorforward	 {color:#FFFFFF;}
 	<p />
 	<p />
 	<table class="noborder">
+		<tr>	<td>ANAHEIM DUCKS</td>	</tr>
+		<tr>	<td>GM: <a href="mailto:timjhamilton@hotmail.com">Tim</a></td>	</tr>
+	</table>
+	<table class="noborder">
 		<tr>
 			<td class="no"><center><b>Position</b></center></td>
 			<td class="no"><center><b>Player's Name</b></center></td>
@@ -79,29 +83,11 @@ a.colorforward	 {color:#FFFFFF;}
 		<xsl:for-each select="GFHL/DB/Player[TEAM='ANA']">
 		      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
 			<tr>
-				<xsl:choose>
-			          	<xsl:when test="POS='GLT'">
-						<xsl:attribute name="class">colourgoalie
-						</xsl:attribute> 
-			          	</xsl:when>
-			          	<xsl:when test="POS='DEF'">
-						<xsl:attribute name="class">colourdefman
-						</xsl:attribute> 
-			          	</xsl:when>
-			          	<xsl:when test="POS!='FWD'">
-						<xsl:attribute name="class">colourheader
-						</xsl:attribute> 
-			          	</xsl:when>
-					
-			          	<xsl:otherwise>
-			            	</xsl:otherwise>
-				</xsl:choose>
 				<td class="no">
 					<center>
 		                    		<xsl:value-of select="POS"/>
 		               		</center>
 				</td>
-				<xsl:variable name="_web" select="WEB"/>
 		                <td class="no">
 					<center>
 						<xsl:choose>
