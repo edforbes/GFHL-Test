@@ -229,9 +229,9 @@ a.colorforward	 {color:#FFFFFF;}
 					</xsl:for-each>
 				</table>
 			</td>
-			
+		
 		</tr>
-
+	</table>
 </body>
 </html>
 </xsl:template> 
