@@ -112,7 +112,7 @@ a.colorforward	 {color:#FFFFFF;}
 					</xsl:for-each>
 				</table>
 			</td>
-			<td class="no" />
+			<td class="no" >
 				<table class="noborder">
 					<tr>	<td class="no" /><td class="no">CALGARY FLAMES</td>	</tr>
 					<tr>	<td class="no" /><td class="no">GM: <a href="mailto:jachan87@gmail.com">JAY</a></td>	</tr>
@@ -151,7 +151,7 @@ a.colorforward	 {color:#FFFFFF;}
 					</xsl:for-each>
 				</table>
 			</td>
-			<td class="no" />
+			<td class="no" >
 				<table class="noborder">
 					<tr>	<td class="no" /><td class="no">CHICAGO BLACKHAWKS</td>	</tr>
 					<tr>	<td class="no" /><td class="no">GM: <a href="mailto:jdfitz12@yahoo.com">JOHN</a></td>	</tr>
@@ -190,7 +190,7 @@ a.colorforward	 {color:#FFFFFF;}
 					</xsl:for-each>
 				</table>
 			</td>
-			<td class="no" />
+			<td class="no" >
 				<table class="noborder">
 					<tr>	<td class="no" /><td class="no">COLORADO AVALANCHE</td>	</tr>
 					<tr>	<td class="no" /><td class="no">GM: <a href="mailto:hektormcdonnell@gmail.com">SHANNON</a></td>	</tr>
