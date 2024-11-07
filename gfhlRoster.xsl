@@ -82,6 +82,7 @@ a:hover, a:active {
 	text-decoration: none;
 	}
 
+a.ANA		 {color:#000000;}
 a.colorgoalie	 {color:#FF0000;}
 a.colordefman	 {color:#7CFC00;}
 a.colorfreeagent {color:#800080;}
@@ -101,7 +102,7 @@ a.colorforward	 {color:#FFFFFF;}
 			<td class="no" >
 				<table class="TeamTitleANA">
 					<tr>	<td class="no" /><td class="no"> <center> ANAHEIM DUCKS </center> </td>						</tr>
-					<tr> 	<td class="no" /><td class="no"> <center> GM: <a href="mailto:timjhamilton@hotmail.com"> TIM </a> </center></td></tr>
+					<tr> 	<td class="no" /><td class="no"> <center> GM: <a href="mailto:timjhamilton@hotmail.com" class="ANA"> TIM </a> </center></td></tr>
 					<tr>	<td class="no" /><td class="no"> <br/> </td>									</tr>
 				</table>
 				<table class="TeamRosterANA">
