@@ -31,42 +31,43 @@ td
 }
 
 /* Tables  */
-	table.noborder {border-width: 0px;
-		font-size: 14px;
-		font-family: Verdana, sans-serif; 
-		border-style: ridge;
-		border-collapse: collapse;} 
-	
-	table.team {border-width: 0px;
-		font-size: 14px;
-		font-family: Verdana, sans-serif; 
-		border-style: ridge;
-		border-collapse: collapse;
-		width: 285px}
-	
-	table.TeamTitleANA {border-width: 0px;
-		font-size: 14px;
-		font-family: Verdana, sans-serif;
-		border-style: ridge;
-		border-collapse: collapse;
-		width: 285px;
-		background: #000000;
-		color: #89734C;}
+table.noborder {border-width: 0px;
+	font-size: 14px;
+	font-family: Verdana, sans-serif; 
+	border-style: ridge;
+	border-collapse: collapse;} 
 
-	table.TeamRosterANA {border-width: 0px;
-        	font-size: 14px;
-		font-family: Verdana, sans-serif;
-		border-style: ridge;
-		border-collapse: collapse;
-		width: 285px;
-		background: #FFFFFF;
-		background-image: url('image/Rosters/Anaheim');
-		background-size: 285px 485px;
-		color: #CF4520;}
+table.team {border-width: 0px;
+	font-size: 14px;
+	font-family: Verdana, sans-serif; 
+	border-style: ridge;
+	border-collapse: collapse;
+	width: 285px}
+
+table.TeamTitleANA {border-width: 0px;
+	font-size: 14px;
+	font-family: Verdana, sans-serif;
+	border-style: ridge;
+	border-collapse: collapse;
+	width: 285px;
+	background: #CF4520;
+	color: #89734C;}
+
+table.TeamRosterANA {border-width: 0px;
+	font-size: 14px;
+	font-family: Verdana, sans-serif;
+	border-style: ridge;
+	border-collapse: collapse;
+	width: 285px;
+	background: #FFFFFF;
+	background-repeat: no-repeat;
+	background-image: url('image/Rosters/Anaheim');
+	background-size: 285px 485px;
+	color: #000000;}
 	
 td.no  {border-width: 0px;
-            border-style: ridge; 
-            padding: 3px;}
+	border-style: ridge; 
+	padding: 3px;}
 
 
     tr.colourgoalie    td {color:#FF0000;}
