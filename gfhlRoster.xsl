@@ -107,7 +107,7 @@ a.colorforward	 {color:#FFFFFF;}
 				</table>
 				<table class="TeamRosterANA">
 					<xsl:for-each select="GFHL/DB/Player[TEAM='ANA']">
-					      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
+					      	<xsl:sort select="SLOT" data-type="number" order="ascending"/>
 						<tr>
 							<td class="no">
 								<center> <xsl:value-of select="POS"/> </center>
