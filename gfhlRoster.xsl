@@ -112,21 +112,21 @@ a.colorforward	 {color:#FFFFFF;}
 							<td class="no">
 								<xsl:choose>
   									<xsl:when test="SLOT = 17">
-								   		<b>ENF</b>
+								   		ENF
 								  	</xsl:when>
   									<xsl:when test="SLOT = 18">
-								   		<b>ENF</b>
+								   		ENF
 								  	</xsl:when>
   									<xsl:when test="SLOT > 20">
-								   		<b>RES</b>
+								   		RES
 								  	</xsl:when>
-								  <xsl:otherwise>
-								    <b><xsl:value-of select="POS"/></b>
-								  </xsl:otherwise>
+								  	<xsl:otherwise>
+								    		<xsl:value-of select="POS"/>
+								  	</xsl:otherwise>
 								</xsl:choose>
 							</td>
 					                <td class="no">
-								<b><xsl:value-of select="NAME"/></b>
+								<xsl:value-of select="NAME"/>
 							</td>
 						</tr>
 					</xsl:for-each>
