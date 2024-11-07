@@ -51,7 +51,7 @@ td
                     border-collapse: collapse;
 		    width: 285px;
 		    background: #000000;
-	            color: ##89734C;}
+	            color: #89734C;}
 
 		table.TeamRosterANA {border-width: 0px;
                     font-size: 14px;
@@ -59,7 +59,7 @@ td
                     border-style: ridge;
                     border-collapse: collapse;
 		    width: 285px;
-		    background-image: url("image\Rosters\Anaheim");
+		    background-image: "image/Rosters/Anaheim";
 	            color: #CF4520;}
 	
 td.no  {border-width: 0px;
