@@ -44,7 +44,7 @@ td
                     border-collapse: collapse;
 		    width: 285px}
 	
-	table.TeamTitleANA {border-width: 0px;
+    table.TeamTitleANA {border-width: 0px;
                     font-size: 14px;
                     font-family: Verdana, sans-serif;
                     border-style: ridge;
@@ -53,13 +53,13 @@ td
 		    background: #000000;
 	            color: #89734C;}
 
-		table.TeamRosterANA {border-width: 0px;
+     table.TeamRosterANA {border-width: 0px;
                     font-size: 14px;
                     font-family: Verdana, sans-serif;
                     border-style: ridge;
                     border-collapse: collapse;
 		    width: 285px;
-		    background-image: "image/Rosters/Anaheim";
+		    background-image: url('image/Rosters/Anaheim');
 	            color: #CF4520;}
 	
 td.no  {border-width: 0px;
