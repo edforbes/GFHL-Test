@@ -43,7 +43,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=263763</WEB>
 			<TEAM>ANA</TEAM>
 			<POS>GLT</POS>
-			<SLOT>1</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>ARTAMANOV, NIKITA</NAME>
@@ -71,7 +71,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=260540</WEB>
 			<TEAM>ANA</TEAM>
 			<POS>GLT</POS>
-			<SLOT>1</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>JELLVIK, OSKAR</NAME>
@@ -281,14 +281,14 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=260118</WEB>
 			<TEAM>ANA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>LUCHANKO, JETT</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=262249</WEB>
 			<TEAM>ANA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>5</SLOT>
 		</Player>
 		<Player>
 			<NAME>LAMOUREUX, MAVERIC</NAME>
@@ -421,7 +421,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=252857</WEB>
 			<TEAM>ANA</TEAM>
 			<POS>DEF</POS>
-			<SLOT>1</SLOT>
+			<SLOT>11</SLOT>
 		</Player>
 		<Player>
 			<NAME>LINDSTROM, CAYDEN</NAME>
@@ -449,7 +449,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=261744</WEB>
 			<TEAM>ANA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>4</SLOT>
 		</Player>
 		<Player>
 			<NAME>CAGNONI, LUCA</NAME>
@@ -1037,7 +1037,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=209469</WEB>
 			<TEAM>ANA</TEAM>
 			<POS>DEF</POS>
-			<SLOT>1</SLOT>
+			<SLOT>14</SLOT>
 		</Player>
 		<Player>
 			<NAME>SALE, EDUARD</NAME>
@@ -1149,7 +1149,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=240679</WEB>
 			<TEAM>ANA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>3</SLOT>
 		</Player>
 		<Player><NAME>BERNI, TIM</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=207774</WEB>
@@ -1293,7 +1293,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=210178</WEB>
 			<TEAM>ANA</TEAM>
 			<POS>GLT</POS>
-			<SLOT>1</SLOT>
+			<SLOT>20</SLOT>
 		</Player>
 		<Player><NAME>BENOIT, SIMON</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=186185</WEB>
@@ -1719,7 +1719,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=244120</WEB>
 			<TEAM>ANA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>8</SLOT>
 		</Player>
 		<Player><NAME>YUROV, DANILA</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=235057</WEB>
@@ -1995,7 +1995,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=216627</WEB>
 			<TEAM>ANA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>2</SLOT>
 		</Player>
 		<Player><NAME>SAMUELSSON, MATTIAS</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=196144</WEB>
@@ -2145,7 +2145,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=170329</WEB>
 			<TEAM>ANA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player><NAME>ANGLE, TYLER</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=195852</WEB>
@@ -2349,7 +2349,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=160343</WEB>
 			<TEAM>ANA</TEAM>
 			<POS>DEF</POS>
-			<SLOT>1</SLOT>
+			<SLOT>13</SLOT>
 		</Player>
 		<Player><NAME>SOKOLOV, EGOR</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=209014</WEB>
@@ -2385,7 +2385,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=172646</WEB>
 			<TEAM>ANA</TEAM>
 			<POS>GLT</POS>
-			<SLOT>1</SLOT>
+			<SLOT>19</SLOT>
 		</Player>
 		<Player><NAME>MACKEY, CONNOR</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=187536</WEB>
@@ -2799,7 +2799,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=226938</WEB>
 			<TEAM>ANA</TEAM>
 			<POS>DEF</POS>
-			<SLOT>1</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player><NAME>MACEWEN, ZACK</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=175199</WEB>
@@ -3039,7 +3039,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=172640</WEB>
 			<TEAM>ANA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>7</SLOT>
 		</Player>
 		<Player><NAME>KINNVALL, JOHANNES</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=201655</WEB>
@@ -3279,7 +3279,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=199624</WEB>
 			<TEAM>ANA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player><NAME>MITCHELL, IAN</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=179508</WEB>
@@ -3351,7 +3351,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=218392</WEB>
 			<TEAM>ANA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>9</SLOT>
 		</Player>
 		<Player><NAME>STÜTZLE, TIM</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=226509</WEB>
@@ -3453,7 +3453,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=208686</WEB>
 			<TEAM>ANA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>10</SLOT>
 		</Player>
 		<Player><NAME>TINORDI, JARRED</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=120972</WEB>
@@ -4455,7 +4455,7 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=197655</WEB>
 			<TEAM>ANA</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>6</SLOT>
 		</Player>
 		<Player><NAME>KAKKO, KAAPO</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=211199</WEB>
@@ -5895,7 +5895,7 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=106892</WEB>
 			<TEAM>ANA</TEAM>
 			<POS>DEF</POS>
-			<SLOT>1</SLOT>
+			<SLOT>16</SLOT>
 		</Player>
 		<Player><NAME>HARRINGTON, SCOTT</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=121787</WEB>
@@ -7137,7 +7137,7 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=116521</WEB>
 			<TEAM>ANA</TEAM>
 			<POS>DEF</POS>
-			<SLOT>1</SLOT>
+			<SLOT>15</SLOT>
 		</Player>
 		<Player><NAME>PASTRNAK, DAVID</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=166010</WEB>
@@ -7485,7 +7485,7 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=187449</WEB>
 			<TEAM>ANA</TEAM>
 			<POS>DEF</POS>
-			<SLOT>1</SLOT>
+			<SLOT>12</SLOT>
 		</Player>
 		<Player><NAME>SCHEIFELE, MARK</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130548</WEB>
