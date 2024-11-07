@@ -94,7 +94,7 @@ a.colorforward	 {color:#FFFFFF;}
 
 <body>
 	<table class="noborder">
-		<tr><td>
+		<tr><td class="no" >
 	<center> <b> Western Rosters </b> </center>
 		</td></tr>
 	</table>
@@ -146,7 +146,7 @@ a.colorforward	 {color:#FFFFFF;}
 					      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
 						<tr>
 							<td class="no">
-								<center> <xsl:value-of select="POS"/> </center>
+								<xsl:value-of select="POS"/>
 							</td>
 					                <td class="no">
 								<xsl:value-of select="NAME"/>
@@ -165,7 +165,7 @@ a.colorforward	 {color:#FFFFFF;}
 					      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
 						<tr>
 							<td class="no">
-								<center> <xsl:value-of select="POS"/> </center>
+								<xsl:value-of select="POS"/> 
 							</td>
 					                <td class="no">
 								<xsl:value-of select="NAME"/>
@@ -184,7 +184,7 @@ a.colorforward	 {color:#FFFFFF;}
 					      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
 						<tr>
 							<td class="no">
-								<center> <xsl:value-of select="POS"/> </center>
+								<xsl:value-of select="POS"/>
 							</td>
 					                <td class="no">
 								<xsl:value-of select="NAME"/>
@@ -209,7 +209,7 @@ a.colorforward	 {color:#FFFFFF;}
 					      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
 						<tr>
 							<td class="no">
-								<center> <xsl:value-of select="POS"/> </center>
+								<xsl:value-of select="POS"/>
 							</td>
 					                <td class="no">
 								<xsl:value-of select="NAME"/>
@@ -228,7 +228,7 @@ a.colorforward	 {color:#FFFFFF;}
 					      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
 						<tr>
 							<td class="no">
-								<center> <xsl:value-of select="POS"/> </center>
+								<xsl:value-of select="POS"/>
 							</td>
 					                <td class="no">
 								<xsl:value-of select="NAME"/>
@@ -247,7 +247,7 @@ a.colorforward	 {color:#FFFFFF;}
 					      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
 						<tr>
 							<td class="no">
-								<center> <xsl:value-of select="POS"/> </center>
+								<xsl:value-of select="POS"/>
 							</td>
 					                <td class="no">
 								<xsl:value-of select="NAME"/>
@@ -266,7 +266,7 @@ a.colorforward	 {color:#FFFFFF;}
 					      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
 						<tr>
 							<td class="no">
-								<center> <xsl:value-of select="POS"/> </center>
+								<xsl:value-of select="POS"/>
 							</td>
 					                <td class="no">	
 								<xsl:value-of select="NAME"/>
@@ -291,7 +291,7 @@ a.colorforward	 {color:#FFFFFF;}
 					      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
 						<tr>
 							<td class="no">
-								<center> <xsl:value-of select="POS"/> </center>
+								<xsl:value-of select="POS"/>
 							</td>
 					                <td class="no">
 								<xsl:value-of select="NAME"/>
@@ -310,7 +310,7 @@ a.colorforward	 {color:#FFFFFF;}
 					      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
 						<tr>
 							<td class="no">
-								<center> <xsl:value-of select="POS"/> </center>
+								<xsl:value-of select="POS"/>
 							</td>
 					                <td class="no">
 								<xsl:value-of select="NAME"/>
@@ -329,7 +329,7 @@ a.colorforward	 {color:#FFFFFF;}
 					      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
 						<tr>
 							<td class="no">
-								<center> <xsl:value-of select="POS"/> </center>
+								<xsl:value-of select="POS"/>
 							</td>
 					                <td class="no">
 								<xsl:value-of select="NAME"/>
@@ -348,7 +348,7 @@ a.colorforward	 {color:#FFFFFF;}
 					      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
 						<tr>
 							<td class="no">
-								<center> <xsl:value-of select="POS"/> </center>
+								<xsl:value-of select="POS"/>
 							</td>
 					                <td class="no">
 								<xsl:value-of select="NAME"/>
@@ -373,7 +373,7 @@ a.colorforward	 {color:#FFFFFF;}
 					      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
 						<tr>
 							<td class="no">
-								<center> <xsl:value-of select="POS"/> </center>
+								<xsl:value-of select="POS"/>
 							</td>
 					                <td class="no">
 								<xsl:value-of select="NAME"/>
@@ -392,7 +392,7 @@ a.colorforward	 {color:#FFFFFF;}
 					      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
 						<tr>
 							<td class="no">
-								<center> <xsl:value-of select="POS"/> </center>
+								<xsl:value-of select="POS"/>
 							</td>
 					                <td class="no">
 								<xsl:value-of select="NAME"/>
@@ -411,7 +411,7 @@ a.colorforward	 {color:#FFFFFF;}
 					      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
 						<tr>
 							<td class="no">
-								<center> <xsl:value-of select="POS"/> </center>
+								<xsl:value-of select="POS"/>
 							</td>
 					                <td class="no">
 								<xsl:value-of select="NAME"/>
@@ -430,7 +430,7 @@ a.colorforward	 {color:#FFFFFF;}
 					      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
 						<tr>
 							<td class="no">
-								<center> <xsl:value-of select="POS"/> </center>
+								<xsl:value-of select="POS"/>
 							</td>
 					                <td class="no">	
 								<xsl:value-of select="NAME"/>
