@@ -110,10 +110,23 @@ a.colorforward	 {color:#FFFFFF;}
 					      	<xsl:sort select="SLOT" data-type="number" order="ascending"/>
 						<tr>
 							<td class="no">
-								<center> <xsl:value-of select="POS"/> </center>
+								<xsl:choose>
+  									<xsl:when test="SLOT = 17">
+								   		<b>ENF</b>
+								  	</xsl:when>
+  									<xsl:when test="SLOT = 18">
+								   		<b>ENF</b>
+								  	</xsl:when>
+  									<xsl:when test="SLOT > 20">
+								   		<b>RES</b>
+								  	</xsl:when>
+								  <xsl:otherwise>
+								    <b><xsl:value-of select="POS"/></b>
+								  </xsl:otherwise>
+								</xsl:choose>
 							</td>
 					                <td class="no">
-								<xsl:value-of select="NAME"/>
+								<b><xsl:value-of select="NAME"/></b>
 							</td>
 						</tr>
 					</xsl:for-each>
