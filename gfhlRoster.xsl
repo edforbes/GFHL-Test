@@ -82,7 +82,7 @@ a:hover, a:active {
 	text-decoration: none;
 	}
 
-a.ANA		 {color:#000000;}
+a.ANA		 {color:#89734C;}
 a.colorgoalie	 {color:#FF0000;}
 a.colordefman	 {color:#7CFC00;}
 a.colorfreeagent {color:#800080;}
