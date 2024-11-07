@@ -62,9 +62,9 @@ table.TeamRosterANA {border-width: 0px;
 	background: #FFFFFF;
 	background-repeat: no-repeat;
 	background-image: url('image/Rosters/Anaheim');
-	background-size: 285px 485px;
-	opacity:0.18;filter:alpha(opacity=18);
-	color: #000000;}
+	background-size: 285px 515px;
+	opacity:0.5;
+	color: #89734C;}
 	
 td.no  {border-width: 0px;
 	border-style: ridge; 
