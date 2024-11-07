@@ -31,36 +31,38 @@ td
 }
 
 /* Tables  */
-    table.noborder {border-width: 0px;
-                    font-size: 14px;
-                    font-family: Verdana, sans-serif; 
-                    border-style: ridge;
-                    border-collapse: collapse;} 
+	table.noborder {border-width: 0px;
+		font-size: 14px;
+		font-family: Verdana, sans-serif; 
+		border-style: ridge;
+		border-collapse: collapse;} 
 	
-    table.team {border-width: 0px;
-                    font-size: 14px;
-                    font-family: Verdana, sans-serif; 
-                    border-style: ridge;
-                    border-collapse: collapse;
-		    width: 285px}
+	table.team {border-width: 0px;
+		font-size: 14px;
+		font-family: Verdana, sans-serif; 
+		border-style: ridge;
+		border-collapse: collapse;
+		width: 285px}
 	
-    table.TeamTitleANA {border-width: 0px;
-                    font-size: 14px;
-                    font-family: Verdana, sans-serif;
-                    border-style: ridge;
-                    border-collapse: collapse;
-		    width: 285px;
-		    background: #000000;
-	            color: #89734C;}
+	table.TeamTitleANA {border-width: 0px;
+		font-size: 14px;
+		font-family: Verdana, sans-serif;
+		border-style: ridge;
+		border-collapse: collapse;
+		width: 285px;
+		background: #000000;
+		color: #89734C;}
 
-     table.TeamRosterANA {border-width: 0px;
-                    font-size: 14px;
-                    font-family: Verdana, sans-serif;
-                    border-style: ridge;
-                    border-collapse: collapse;
-		    width: 285px;
-		    background-image: url('image/Rosters/Anaheim');
-	            color: #CF4520;}
+	table.TeamRosterANA {border-width: 0px;
+        	font-size: 14px;
+		font-family: Verdana, sans-serif;
+		border-style: ridge;
+		border-collapse: collapse;
+		width: 285px;
+		background: #FFFFFF;
+		background-image: url('image/Rosters/Anaheim');
+		background-size: 285px 485px;
+		color: #CF4520;}
 	
 td.no  {border-width: 0px;
             border-style: ridge; 
