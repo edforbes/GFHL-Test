@@ -62,7 +62,6 @@ table.TeamRosterANA {border-width: 0px;
 	background: #FFFFFF;
 	background-repeat: no-repeat;
 	background-size: 285px 520px;
-	opacity:0.5;
 	color: #000000;}
 	
 td.no  {border-width: 0px;
