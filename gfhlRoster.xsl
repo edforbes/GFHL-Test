@@ -628,7 +628,7 @@ a.colorforward	 {color:#FFFFFF;}
 					<tr>	<td class="no" /><td class="no"> <center> LOS ANGELES KINGS</center> </td>						</tr>
 					<tr>	<td class="no" /><td class="no"> <center> GM: <a href="mailto:tblain1@gmail.com"> TOM </a> </center> </td>	</tr>
 					<tr>	<td class="no" /><td class="no"> <br /> </td>									</tr>
-									</table>
+				</table>
 				<table class="TeamRosterLA">
 					<xsl:for-each select="GFHL/DB/Player[TEAM='LA']">
 					      	<xsl:sort select="SLOT" data-type="number" order="ascending"/>
@@ -698,8 +698,8 @@ a.colorforward	 {color:#FFFFFF;}
 			<td class="no" >
 				<table class="TeamTitleNSH">
 					<tr>	<td class="no" /><td class="no"> <center> NASHVILLE PREDATORS </center> </td>						</tr>
-					<tr> 	<td class="no" /><td class="no"> <center> GM: <a href="mailto:bharwood84@hotmail.com"> BRETT </a> </center></td></tr>
-					<tr>	<td class="no" /><td class="no"> <center>  HC: MIKE FISHER​ </center> </td>									</tr>
+					<tr> 	<td class="no" /><td class="no"> <center> GM: <a href="mailto:bharwood84@hotmail.com"> BRETT </a> </center></td>	</tr>
+					<tr>	<td class="no" /><td class="no"> <center>  HC: MIKE FISHER​ </center> </td>						</tr>
 				</table>
 				<table class="TeamRosterNSH">
 					<xsl:for-each select="GFHL/DB/Player[TEAM='NSH']">
@@ -732,7 +732,7 @@ a.colorforward	 {color:#FFFFFF;}
 				<table class="TeamTitleSJ">
 					<tr>	<td class="no" /><td class="no"> <center> SAN JOSE SHARKS </center> </td>						</tr>
 					<tr>	<td class="no" /><td class="no"> <center> GM: <a href="mailto:bealls77corvette@gmail.com"> PHIL </a> </center> </td>	</tr>
-					<tr>	<td class="no" /><td class="no"> <center> HC: MIKE RICCI​ </center> </td>						</tr>				</table>
+					<tr>	<td class="no" /><td class="no"> <center> HC: MIKE RICCI​ </center> </td>						</tr>
 				</table>
 				<table class="TeamRosterSJ">
 					<xsl:for-each select="GFHL/DB/Player[TEAM='SJ']">
