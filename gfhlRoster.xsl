@@ -64,7 +64,323 @@ table.TeamRosterANA {border-width: 0px;
 	background-image: url('image/Rosters/Anaheim');
 	background-size: 285px 520px;
 	color: #000000;}
+
+table.TeamTitleCGY {border-width: 0px;
+	font-size: 14px;
+	font-family: Verdana, sans-serif;
+	border-style: ridge;
+	border-collapse: collapse;
+	width: 285px;
+	background: #C8102E;
+	color: #F1BE48;}
+
+table.TeamRosterCGY {border-width: 0px;
+	font-size: 14px;
+	font-family: Verdana, sans-serif;
+	border-style: ridge;
+	border-collapse: collapse;
+	width: 285px;
+	background: #FFFFFF;
+	background-repeat: no-repeat;
+	background-image: url('image/Rosters/Calgary');
+	background-size: 285px 520px;
+	color: #F1BE48;}
 	
+table.TeamTitleCHI {border-width: 0px;
+	font-size: 14px;
+	font-family: Verdana, sans-serif;
+	border-style: ridge;
+	border-collapse: collapse;
+	width: 285px;
+	background: #C8102E;
+	color: #F1BE48;}
+
+table.TeamRosterCHI {border-width: 0px;
+	font-size: 14px;
+	font-family: Verdana, sans-serif;
+	border-style: ridge;
+	border-collapse: collapse;
+	width: 285px;
+	background: #FFFFFF;
+	background-repeat: no-repeat;
+	background-image: url('image/Rosters/Chicago');
+	background-size: 285px 520px;
+	color: #F1BE48;}
+	
+table.TeamTitleCOL {border-width: 0px;
+	font-size: 14px;
+	font-family: Verdana, sans-serif;
+	border-style: ridge;
+	border-collapse: collapse;
+	width: 285px;
+	background: #C8102E;
+	color: #F1BE48;}
+
+table.TeamRosterCOL {border-width: 0px;
+	font-size: 14px;
+	font-family: Verdana, sans-serif;
+	border-style: ridge;
+	border-collapse: collapse;
+	width: 285px;
+	background: #FFFFFF;
+	background-repeat: no-repeat;
+	background-image: url('image/Rosters/Colorado');
+	background-size: 285px 520px;
+	color: #F1BE48;}
+
+table.TeamTitleDAL {border-width: 0px;
+	font-size: 14px;
+	font-family: Verdana, sans-serif;
+	border-style: ridge;
+	border-collapse: collapse;
+	width: 285px;
+	background: #000000;
+	color: #89734C;}
+
+table.TeamRosterDAL {border-width: 0px;
+	font-size: 14px;
+	font-family: Verdana, sans-serif;
+	border-style: ridge;
+	border-collapse: collapse;
+	width: 285px;
+	background: #FFFFFF;
+	background-repeat: no-repeat;
+	background-image: url('image/Rosters/Dallas');
+	background-size: 285px 520px;
+	color: #000000;}
+
+table.TeamTitleEDM {border-width: 0px;
+	font-size: 14px;
+	font-family: Verdana, sans-serif;
+	border-style: ridge;
+	border-collapse: collapse;
+	width: 285px;
+	background: #C8102E;
+	color: #F1BE48;}
+
+table.TeamRosterEDM {border-width: 0px;
+	font-size: 14px;
+	font-family: Verdana, sans-serif;
+	border-style: ridge;
+	border-collapse: collapse;
+	width: 285px;
+	background: #FFFFFF;
+	background-repeat: no-repeat;
+	background-image: url('image/Rosters/Edmonton');
+	background-size: 285px 520px;
+	color: #F1BE48;}
+	
+table.TeamTitleLA {border-width: 0px;
+	font-size: 14px;
+	font-family: Verdana, sans-serif;
+	border-style: ridge;
+	border-collapse: collapse;
+	width: 285px;
+	background: #C8102E;
+	color: #F1BE48;}
+
+table.TeamRosterLA {border-width: 0px;
+	font-size: 14px;
+	font-family: Verdana, sans-serif;
+	border-style: ridge;
+	border-collapse: collapse;
+	width: 285px;
+	background: #FFFFFF;
+	background-repeat: no-repeat;
+	background-image: url('image/Rosters/LosAngeles');
+	background-size: 285px 520px;
+	color: #F1BE48;}
+	
+table.TeamTitleMIN {border-width: 0px;
+	font-size: 14px;
+	font-family: Verdana, sans-serif;
+	border-style: ridge;
+	border-collapse: collapse;
+	width: 285px;
+	background: #C8102E;
+	color: #F1BE48;}
+
+table.TeamRosterMIN {border-width: 0px;
+	font-size: 14px;
+	font-family: Verdana, sans-serif;
+	border-style: ridge;
+	border-collapse: collapse;
+	width: 285px;
+	background: #FFFFFF;
+	background-repeat: no-repeat;
+	background-image: url('image/Rosters/Minnesota');
+	background-size: 285px 520px;
+	color: #F1BE48;}
+
+table.TeamTitleNSH {border-width: 0px;
+	font-size: 14px;
+	font-family: Verdana, sans-serif;
+	border-style: ridge;
+	border-collapse: collapse;
+	width: 285px;
+	background: #000000;
+	color: #89734C;}
+
+table.TeamRosterNSH {border-width: 0px;
+	font-size: 14px;
+	font-family: Verdana, sans-serif;
+	border-style: ridge;
+	border-collapse: collapse;
+	width: 285px;
+	background: #FFFFFF;
+	background-repeat: no-repeat;
+	background-image: url('image/Rosters/Nashville');
+	background-size: 285px 520px;
+	color: #000000;}
+
+table.TeamTitleSJ {border-width: 0px;
+	font-size: 14px;
+	font-family: Verdana, sans-serif;
+	border-style: ridge;
+	border-collapse: collapse;
+	width: 285px;
+	background: #C8102E;
+	color: #F1BE48;}
+
+table.TeamRosterSJ {border-width: 0px;
+	font-size: 14px;
+	font-family: Verdana, sans-serif;
+	border-style: ridge;
+	border-collapse: collapse;
+	width: 285px;
+	background: #FFFFFF;
+	background-repeat: no-repeat;
+	background-image: url('image/Rosters/SanJose');
+	background-size: 285px 520px;
+	color: #F1BE48;}
+	
+table.TeamTitleSEA {border-width: 0px;
+	font-size: 14px;
+	font-family: Verdana, sans-serif;
+	border-style: ridge;
+	border-collapse: collapse;
+	width: 285px;
+	background: #C8102E;
+	color: #F1BE48;}
+
+table.TeamRosterSEA {border-width: 0px;
+	font-size: 14px;
+	font-family: Verdana, sans-serif;
+	border-style: ridge;
+	border-collapse: collapse;
+	width: 285px;
+	background: #FFFFFF;
+	background-repeat: no-repeat;
+	background-image: url('image/Rosters/Seattle');
+	background-size: 285px 520px;
+	color: #F1BE48;}
+	
+table.TeamTitleSTL {border-width: 0px;
+	font-size: 14px;
+	font-family: Verdana, sans-serif;
+	border-style: ridge;
+	border-collapse: collapse;
+	width: 285px;
+	background: #C8102E;
+	color: #F1BE48;}
+
+table.TeamRosterSTL {border-width: 0px;
+	font-size: 14px;
+	font-family: Verdana, sans-serif;
+	border-style: ridge;
+	border-collapse: collapse;
+	width: 285px;
+	background: #FFFFFF;
+	background-repeat: no-repeat;
+	background-image: url('image/Rosters/StLouis');
+	background-size: 285px 520px;
+	color: #F1BE48;}
+
+table.TeamTitleUTA {border-width: 0px;
+	font-size: 14px;
+	font-family: Verdana, sans-serif;
+	border-style: ridge;
+	border-collapse: collapse;
+	width: 285px;
+	background: #000000;
+	color: #89734C;}
+
+table.TeamRosterUTA {border-width: 0px;
+	font-size: 14px;
+	font-family: Verdana, sans-serif;
+	border-style: ridge;
+	border-collapse: collapse;
+	width: 285px;
+	background: #FFFFFF;
+	background-repeat: no-repeat;
+	background-image: url('image/Rosters/Utah');
+	background-size: 285px 520px;
+	color: #000000;}
+
+table.TeamTitleVAN {border-width: 0px;
+	font-size: 14px;
+	font-family: Verdana, sans-serif;
+	border-style: ridge;
+	border-collapse: collapse;
+	width: 285px;
+	background: #C8102E;
+	color: #F1BE48;}
+
+table.TeamRosterVAN {border-width: 0px;
+	font-size: 14px;
+	font-family: Verdana, sans-serif;
+	border-style: ridge;
+	border-collapse: collapse;
+	width: 285px;
+	background: #FFFFFF;
+	background-repeat: no-repeat;
+	background-image: url('image/Rosters/Vancouver');
+	background-size: 285px 520px;
+	color: #F1BE48;}
+	
+table.TeamTitleVGK {border-width: 0px;
+	font-size: 14px;
+	font-family: Verdana, sans-serif;
+	border-style: ridge;
+	border-collapse: collapse;
+	width: 285px;
+	background: #C8102E;
+	color: #F1BE48;}
+
+table.TeamRosterVGK {border-width: 0px;
+	font-size: 14px;
+	font-family: Verdana, sans-serif;
+	border-style: ridge;
+	border-collapse: collapse;
+	width: 285px;
+	background: #FFFFFF;
+	background-repeat: no-repeat;
+	background-image: url('image/Rosters/Vegas');
+	background-size: 285px 520px;
+	color: #F1BE48;}
+	
+table.TeamTitleWPG {border-width: 0px;
+	font-size: 14px;
+	font-family: Verdana, sans-serif;
+	border-style: ridge;
+	border-collapse: collapse;
+	width: 285px;
+	background: #C8102E;
+	color: #F1BE48;}
+
+table.TeamRosterWPG {border-width: 0px;
+	font-size: 14px;
+	font-family: Verdana, sans-serif;
+	border-style: ridge;
+	border-collapse: collapse;
+	width: 285px;
+	background: #FFFFFF;
+	background-repeat: no-repeat;
+	background-image: url('image/Rosters/Winnipeg');
+	background-size: 285px 520px;
+	color: #F1BE48;}
+
+
 td.no  {border-width: 0px;
 	border-style: ridge; 
 	padding: 3px;}
@@ -137,16 +453,30 @@ a.colorforward	 {color:#FFFFFF;}
 				</table>
 			</td>
 			<td class="no" >
-				<table class="team">
+				<table class="TeamTitleCGY">
 					<tr>	<td class="no" /><td class="no"> <center> CALGARY FLAMES </center> </td>					</tr>
 					<tr>	<td class="no" /><td class="no"> <center> GM: <a href="mailto:jachan87@gmail.com"> JAY </a> </center> </td>	</tr>
 					<tr>	<td class="no" /><td class="no"> <br /> </td>									</tr>
-					
+				</table>
+				<table class="TeamRosterCGY">
 					<xsl:for-each select="GFHL/DB/Player[TEAM='CGY']">
-					      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
+					      	<xsl:sort select="SLOT" data-type="number" order="ascending"/>
 						<tr>
 							<td class="no">
-								<xsl:value-of select="POS"/>
+								<xsl:choose>
+  									<xsl:when test="SLOT = 17">
+								   		ENF
+								  	</xsl:when>
+  									<xsl:when test="SLOT = 18">
+								   		ENF
+								  	</xsl:when>
+  									<xsl:when test="SLOT > 20">
+								   		RES
+								  	</xsl:when>
+								  	<xsl:otherwise>
+								    		<xsl:value-of select="POS"/>
+								  	</xsl:otherwise>
+								</xsl:choose>
 							</td>
 					                <td class="no">
 								<xsl:value-of select="NAME"/>
@@ -156,16 +486,30 @@ a.colorforward	 {color:#FFFFFF;}
 				</table>
 			</td>
 			<td class="no" >
-				<table class="team">
+				<table class="TeamTitleCHI">
 					<tr>	<td class="no" /><td class="no"> <center> CHICAGO BLACKHAWKS </center> </td>					</tr>
 					<tr>	<td class="no" /><td class="no"> <center> GM: <a href="mailto:jdfitz12@yahoo.com"> JOHN </a> </center> </td>	</tr>
 					<tr>	<td class="no" /><td class="no"> <br /> </td>									</tr>
-					
+				</table>	
+				<table class="TeamRosterCHI">
 					<xsl:for-each select="GFHL/DB/Player[TEAM='CHI']">
-					      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
+					      	<xsl:sort select="SLOT" data-type="number" order="ascending"/>
 						<tr>
 							<td class="no">
-								<xsl:value-of select="POS"/> 
+								<xsl:choose>
+  									<xsl:when test="SLOT = 17">
+								   		ENF
+								  	</xsl:when>
+  									<xsl:when test="SLOT = 18">
+								   		ENF
+								  	</xsl:when>
+  									<xsl:when test="SLOT > 20">
+								   		RES
+								  	</xsl:when>
+								  	<xsl:otherwise>
+								    		<xsl:value-of select="POS"/>
+								  	</xsl:otherwise>
+								</xsl:choose>
 							</td>
 					                <td class="no">
 								<xsl:value-of select="NAME"/>
@@ -175,16 +519,30 @@ a.colorforward	 {color:#FFFFFF;}
 				</table>
 			</td>
 			<td class="no" >
-				<table class="team">
+				<table class="TeamTitleCOL">
 					<tr>	<td class="no" /><td class="no"> <center> COLORADO AVALANCHE </center> </td>						</tr>
 					<tr>	<td class="no" /><td class="no"> <center> GM: <a href="mailto:hektormcdonnell@gmail.com"> SHANNON </a> </center> </td>	</tr>
 					<tr>	<td class="no" /><td class="no"> <br /> </td>										</tr>
-					
+				</table>
+				<table class="TeamRosterCOL">
 					<xsl:for-each select="GFHL/DB/Player[TEAM='COL']">
-					      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
+					      	<xsl:sort select="SLOT" data-type="number" order="ascending"/>
 						<tr>
 							<td class="no">
-								<xsl:value-of select="POS"/>
+								<xsl:choose>
+  									<xsl:when test="SLOT = 17">
+								   		ENF
+								  	</xsl:when>
+  									<xsl:when test="SLOT = 18">
+								   		ENF
+								  	</xsl:when>
+  									<xsl:when test="SLOT > 20">
+								   		RES
+								  	</xsl:when>
+								  	<xsl:otherwise>
+								    		<xsl:value-of select="POS"/>
+								  	</xsl:otherwise>
+								</xsl:choose>
 							</td>
 					                <td class="no">
 								<xsl:value-of select="NAME"/>
@@ -200,16 +558,30 @@ a.colorforward	 {color:#FFFFFF;}
 	<table class="noborder">
 		<tr>
 			<td class="no" >
-				<table class="team">
+				<table class="TeamTitleDAL">
 					<tr>	<td class="no" /><td class="no"> <center> DALLAS STARS </center> </td>							</tr>
 					<tr> 	<td class="no" /><td class="no"> <center> GM: <a href="mailto:mailto:simonyu84@gmail.com"> SIMON </a> </center> </td>	</tr>
 					<tr>	<td class="no" /><td class="no"> <br /> </td>										</tr>
-
+				</table>
+				<table class="TeamRosterDAL">
 					<xsl:for-each select="GFHL/DB/Player[TEAM='DAL']">
-					      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
+					      	<xsl:sort select="SLOT" data-type="number" order="ascending"/>
 						<tr>
 							<td class="no">
-								<xsl:value-of select="POS"/>
+								<xsl:choose>
+  									<xsl:when test="SLOT = 17">
+								   		ENF
+								  	</xsl:when>
+  									<xsl:when test="SLOT = 18">
+								   		ENF
+								  	</xsl:when>
+  									<xsl:when test="SLOT > 20">
+								   		RES
+								  	</xsl:when>
+								  	<xsl:otherwise>
+								    		<xsl:value-of select="POS"/>
+								  	</xsl:otherwise>
+								</xsl:choose>
 							</td>
 					                <td class="no">
 								<xsl:value-of select="NAME"/>
@@ -219,16 +591,30 @@ a.colorforward	 {color:#FFFFFF;}
 				</table>
 			</td>
 			<td class="no" >
-				<table class="team">
+				<table class="TeramTitleEDM">
 					<tr>	<td class="no" /><td class="no"> <center> EDMONTON OILERS </center> </td>					</tr>
 					<tr>	<td class="no" /><td class="no"> <center> GM: <a href="mailto:mjohns05@outlook.com"> MIKEY </a> </center> </td>	</tr>
 					<tr>	<td class="no" /><td class="no"> <center> HC: WAYNE GRETZKY </center> </td>					</tr>
-
+				</table>
+				<table class="TeamRosterEDM">
 					<xsl:for-each select="GFHL/DB/Player[TEAM='EDM']">
-					      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
+					      	<xsl:sort select="SLOT" data-type="number" order="ascending"/>
 						<tr>
 							<td class="no">
-								<xsl:value-of select="POS"/>
+								<xsl:choose>
+  									<xsl:when test="SLOT = 17">
+								   		ENF
+								  	</xsl:when>
+  									<xsl:when test="SLOT = 18">
+								   		ENF
+								  	</xsl:when>
+  									<xsl:when test="SLOT > 20">
+								   		RES
+								  	</xsl:when>
+								  	<xsl:otherwise>
+								    		<xsl:value-of select="POS"/>
+								  	</xsl:otherwise>
+								</xsl:choose>
 							</td>
 					                <td class="no">
 								<xsl:value-of select="NAME"/>
@@ -238,16 +624,30 @@ a.colorforward	 {color:#FFFFFF;}
 				</table>
 			</td>
 			<td class="no" >
-				<table class="team">
+				<table class="TeamTitleLA">
 					<tr>	<td class="no" /><td class="no"> <center> LOS ANGELES KINGS</center> </td>						</tr>
 					<tr>	<td class="no" /><td class="no"> <center> GM: <a href="mailto:tblain1@gmail.com"> TOM </a> </center> </td>	</tr>
 					<tr>	<td class="no" /><td class="no"> <br /> </td>									</tr>
-					
+									</table>
+				<table class="TeamRosterLA">
 					<xsl:for-each select="GFHL/DB/Player[TEAM='LA']">
-					      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
+					      	<xsl:sort select="SLOT" data-type="number" order="ascending"/>
 						<tr>
 							<td class="no">
-								<xsl:value-of select="POS"/>
+								<xsl:choose>
+  									<xsl:when test="SLOT = 17">
+								   		ENF
+								  	</xsl:when>
+  									<xsl:when test="SLOT = 18">
+								   		ENF
+								  	</xsl:when>
+  									<xsl:when test="SLOT > 20">
+								   		RES
+								  	</xsl:when>
+								  	<xsl:otherwise>
+								    		<xsl:value-of select="POS"/>
+								  	</xsl:otherwise>
+								</xsl:choose>
 							</td>
 					                <td class="no">
 								<xsl:value-of select="NAME"/>
@@ -257,18 +657,32 @@ a.colorforward	 {color:#FFFFFF;}
 				</table>
 			</td>
 			<td class="no" >
-				<table class="team">
+				<table class="TeamTitleMIN">
 					<tr>	<td class="no" /><td class="no"> <center> MINNESOTA WILD </center> </td>						</tr>
 					<tr>	<td class="no" /><td class="no"> <center> GM: <a href="mailto:leduc_paul@hotmail.com"> PAUL </a> </center> </td>	</tr>
 					<tr>	<td class="no" /><td class="no"> <center> HC: MARIAN GABORIK ​</center> </td>						</tr>
-					
+				</table>
+				<table class="TeamRosterMIN">
 					<xsl:for-each select="GFHL/DB/Player[TEAM='MIN']">
-					      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
+					      	<xsl:sort select="SLOT" data-type="number" order="ascending"/>
 						<tr>
 							<td class="no">
-								<xsl:value-of select="POS"/>
+								<xsl:choose>
+  									<xsl:when test="SLOT = 17">
+								   		ENF
+								  	</xsl:when>
+  									<xsl:when test="SLOT = 18">
+								   		ENF
+								  	</xsl:when>
+  									<xsl:when test="SLOT > 20">
+								   		RES
+								  	</xsl:when>
+								  	<xsl:otherwise>
+								    		<xsl:value-of select="POS"/>
+								  	</xsl:otherwise>
+								</xsl:choose>
 							</td>
-					                <td class="no">	
+					                <td class="no">
 								<xsl:value-of select="NAME"/>
 							</td>
 						</tr>
@@ -282,16 +696,30 @@ a.colorforward	 {color:#FFFFFF;}
 	<table class="noborder">
 		<tr>
 			<td class="no" >
-				<table class="team">
+				<table class="TeamTitleNSH">
 					<tr>	<td class="no" /><td class="no"> <center> NASHVILLE PREDATORS </center> </td>						</tr>
 					<tr> 	<td class="no" /><td class="no"> <center> GM: <a href="mailto:bharwood84@hotmail.com"> BRETT </a> </center></td></tr>
 					<tr>	<td class="no" /><td class="no"> <center>  HC: MIKE FISHER​ </center> </td>									</tr>
-					
+				</table>
+				<table class="TeamRosterNSH">
 					<xsl:for-each select="GFHL/DB/Player[TEAM='NSH']">
-					      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
+					      	<xsl:sort select="SLOT" data-type="number" order="ascending"/>
 						<tr>
 							<td class="no">
-								<xsl:value-of select="POS"/>
+								<xsl:choose>
+  									<xsl:when test="SLOT = 17">
+								   		ENF
+								  	</xsl:when>
+  									<xsl:when test="SLOT = 18">
+								   		ENF
+								  	</xsl:when>
+  									<xsl:when test="SLOT > 20">
+								   		RES
+								  	</xsl:when>
+								  	<xsl:otherwise>
+								    		<xsl:value-of select="POS"/>
+								  	</xsl:otherwise>
+								</xsl:choose>
 							</td>
 					                <td class="no">
 								<xsl:value-of select="NAME"/>
@@ -301,16 +729,30 @@ a.colorforward	 {color:#FFFFFF;}
 				</table>
 			</td>
 			<td class="no" >
-				<table class="team">
+				<table class="TeamTitleSJ">
 					<tr>	<td class="no" /><td class="no"> <center> SAN JOSE SHARKS </center> </td>						</tr>
 					<tr>	<td class="no" /><td class="no"> <center> GM: <a href="mailto:bealls77corvette@gmail.com"> PHIL </a> </center> </td>	</tr>
-					<tr>	<td class="no" /><td class="no"> <center> HC: MIKE RICCI​ </center> </td>						</tr>
-					
+					<tr>	<td class="no" /><td class="no"> <center> HC: MIKE RICCI​ </center> </td>						</tr>				</table>
+				</table>
+				<table class="TeamRosterSJ">
 					<xsl:for-each select="GFHL/DB/Player[TEAM='SJ']">
-					      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
+					      	<xsl:sort select="SLOT" data-type="number" order="ascending"/>
 						<tr>
 							<td class="no">
-								<xsl:value-of select="POS"/>
+								<xsl:choose>
+  									<xsl:when test="SLOT = 17">
+								   		ENF
+								  	</xsl:when>
+  									<xsl:when test="SLOT = 18">
+								   		ENF
+								  	</xsl:when>
+  									<xsl:when test="SLOT > 20">
+								   		RES
+								  	</xsl:when>
+								  	<xsl:otherwise>
+								    		<xsl:value-of select="POS"/>
+								  	</xsl:otherwise>
+								</xsl:choose>
 							</td>
 					                <td class="no">
 								<xsl:value-of select="NAME"/>
@@ -318,18 +760,33 @@ a.colorforward	 {color:#FFFFFF;}
 						</tr>
 					</xsl:for-each>
 				</table>
+
 			</td>
 			<td class="no" >
-				<table class="team">
+				<table class="TeamTitleSEA">
 					<tr>	<td class="no" /><td class="no"> <center> SEATTLE KRAKEN </center> </td>					</tr>
 					<tr>	<td class="no" /><td class="no"> <center> GM: <a href="mailto:nspaeth@hotmail.com"> NEIL </a> </center> </td>	</tr>
 					<tr>	<td class="no" /><td class="no"> <br /> </td>									</tr>
-					
+				</table>
+				<table class="TeamRosterSEA">
 					<xsl:for-each select="GFHL/DB/Player[TEAM='SEA']">
-					      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
+					      	<xsl:sort select="SLOT" data-type="number" order="ascending"/>
 						<tr>
 							<td class="no">
-								<xsl:value-of select="POS"/>
+								<xsl:choose>
+  									<xsl:when test="SLOT = 17">
+								   		ENF
+								  	</xsl:when>
+  									<xsl:when test="SLOT = 18">
+								   		ENF
+								  	</xsl:when>
+  									<xsl:when test="SLOT > 20">
+								   		RES
+								  	</xsl:when>
+								  	<xsl:otherwise>
+								    		<xsl:value-of select="POS"/>
+								  	</xsl:otherwise>
+								</xsl:choose>
 							</td>
 					                <td class="no">
 								<xsl:value-of select="NAME"/>
@@ -339,16 +796,30 @@ a.colorforward	 {color:#FFFFFF;}
 				</table>
 			</td>
 			<td class="no" >
-				<table class="team">
+				<table class="TeamTitleSTL">
 					<tr>	<td class="no" /><td class="no"> <center> ST. LOUIS BLUES </center> </td>						</tr>
 					<tr>	<td class="no" /><td class="no"> <center> GM: <a href="mailto:cultsuperhero@gmail.com"> MIKE </a> </center> </td>	</tr>
 					<tr>	<td class="no" /><td class="no"> <br /> </td>										</tr>
-					
+				</table>
+				<table class="TeamRosterSTL">
 					<xsl:for-each select="GFHL/DB/Player[TEAM='STL']">
-					      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
+					      	<xsl:sort select="SLOT" data-type="number" order="ascending"/>
 						<tr>
 							<td class="no">
-								<xsl:value-of select="POS"/>
+								<xsl:choose>
+  									<xsl:when test="SLOT = 17">
+								   		ENF
+								  	</xsl:when>
+  									<xsl:when test="SLOT = 18">
+								   		ENF
+								  	</xsl:when>
+  									<xsl:when test="SLOT > 20">
+								   		RES
+								  	</xsl:when>
+								  	<xsl:otherwise>
+								    		<xsl:value-of select="POS"/>
+								  	</xsl:otherwise>
+								</xsl:choose>
 							</td>
 					                <td class="no">
 								<xsl:value-of select="NAME"/>
@@ -364,16 +835,30 @@ a.colorforward	 {color:#FFFFFF;}
 	<table class="noborder">
 		<tr>
 			<td class="no" >
-				<table class="team">
+				<table class="TeamTitleUTA">
 					<tr>	<td class="no" /><td class="no"> <center> UTAH HOCKEY CLUB </center> </td>						</tr>
 					<tr> 	<td class="no" /><td class="no"> <center> GM: <a href="mailto:mailto:gbunn19@gmail.com"> GARY </a> </center> </td>	</tr>
 					<tr>	<td class="no" /><td class="no"> <center> HC: JEREMY ROENICK </center> </td>						</tr>
-
+				</table>
+				<table class="TeamRosterUTA">
 					<xsl:for-each select="GFHL/DB/Player[TEAM='UTA']">
-					      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
+					      	<xsl:sort select="SLOT" data-type="number" order="ascending"/>
 						<tr>
 							<td class="no">
-								<xsl:value-of select="POS"/>
+								<xsl:choose>
+  									<xsl:when test="SLOT = 17">
+								   		ENF
+								  	</xsl:when>
+  									<xsl:when test="SLOT = 18">
+								   		ENF
+								  	</xsl:when>
+  									<xsl:when test="SLOT > 20">
+								   		RES
+								  	</xsl:when>
+								  	<xsl:otherwise>
+								    		<xsl:value-of select="POS"/>
+								  	</xsl:otherwise>
+								</xsl:choose>
 							</td>
 					                <td class="no">
 								<xsl:value-of select="NAME"/>
@@ -383,16 +868,30 @@ a.colorforward	 {color:#FFFFFF;}
 				</table>
 			</td>
 			<td class="no" >
-				<table class="team">
+				<table class="TeamTitleVAN">
 					<tr>	<td class="no" /><td class="no"> <center> VANCOUVER CANUCKS </center> </td>						</tr>
 					<tr>	<td class="no" /><td class="no"> <center> GM: <a href="mailto:mcgrawtalen@gmail.com"> TALEN </a> </center> </td>	</tr>
 					<tr>	<td class="no" /><td class="no"> <br /> </td>										</tr>
-
+				</table>
+				<table class="TeamRosterVAN">
 					<xsl:for-each select="GFHL/DB/Player[TEAM='VAN']">
-					      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
+					      	<xsl:sort select="SLOT" data-type="number" order="ascending"/>
 						<tr>
 							<td class="no">
-								<xsl:value-of select="POS"/>
+								<xsl:choose>
+  									<xsl:when test="SLOT = 17">
+								   		ENF
+								  	</xsl:when>
+  									<xsl:when test="SLOT = 18">
+								   		ENF
+								  	</xsl:when>
+  									<xsl:when test="SLOT > 20">
+								   		RES
+								  	</xsl:when>
+								  	<xsl:otherwise>
+								    		<xsl:value-of select="POS"/>
+								  	</xsl:otherwise>
+								</xsl:choose>
 							</td>
 					                <td class="no">
 								<xsl:value-of select="NAME"/>
@@ -402,16 +901,30 @@ a.colorforward	 {color:#FFFFFF;}
 				</table>
 			</td>
 			<td class="no" >
-				<table class="team">
+				<table class="TeamTitleVGK">
 					<tr>	<td class="no" /><td class="no"> <center> VEGAS GOLDEN KNIGHTS</center> </td>						</tr>
 					<tr>	<td class="no" /><td class="no"> <center> GM: <a href="mailto:martybaroni@gmail.com"> MARTY </a> </center> </td>	</tr>
 					<tr>	<td class="no" /><td class="no"> <br /> </td>										</tr>
-					
+				</table>
+				<table class="TeamRosterVGK">
 					<xsl:for-each select="GFHL/DB/Player[TEAM='VGK']">
-					      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
+					      	<xsl:sort select="SLOT" data-type="number" order="ascending"/>
 						<tr>
 							<td class="no">
-								<xsl:value-of select="POS"/>
+								<xsl:choose>
+  									<xsl:when test="SLOT = 17">
+								   		ENF
+								  	</xsl:when>
+  									<xsl:when test="SLOT = 18">
+								   		ENF
+								  	</xsl:when>
+  									<xsl:when test="SLOT > 20">
+								   		RES
+								  	</xsl:when>
+								  	<xsl:otherwise>
+								    		<xsl:value-of select="POS"/>
+								  	</xsl:otherwise>
+								</xsl:choose>
 							</td>
 					                <td class="no">
 								<xsl:value-of select="NAME"/>
@@ -421,18 +934,32 @@ a.colorforward	 {color:#FFFFFF;}
 				</table>
 			</td>
 			<td class="no" >
-				<table class="team">
+				<table class="TeamTitleWPG">
 					<tr>	<td class="no" /><td class="no"> <center> WINNIPEG JETS </center> </td>							</tr>
 					<tr>	<td class="no" /><td class="no"> <center> GM: <a href="mailto:kyle.gartner@gmail.com"> KYLE </a> </center> </td>	</tr>
 					<tr>	<td class="no" /><td class="no"> <br /> </td>										</tr>
-					
+				</table>
+				<table class="TeamRosterWPG">
 					<xsl:for-each select="GFHL/DB/Player[TEAM='WPG']">
-					      	<xsl:sort select="NAME" data-type="text" order="ascending"/>
+					      	<xsl:sort select="SLOT" data-type="number" order="ascending"/>
 						<tr>
 							<td class="no">
-								<xsl:value-of select="POS"/>
+								<xsl:choose>
+  									<xsl:when test="SLOT = 17">
+								   		ENF
+								  	</xsl:when>
+  									<xsl:when test="SLOT = 18">
+								   		ENF
+								  	</xsl:when>
+  									<xsl:when test="SLOT > 20">
+								   		RES
+								  	</xsl:when>
+								  	<xsl:otherwise>
+								    		<xsl:value-of select="POS"/>
+								  	</xsl:otherwise>
+								</xsl:choose>
 							</td>
-					                <td class="no">	
+					                <td class="no">
 								<xsl:value-of select="NAME"/>
 							</td>
 						</tr>
