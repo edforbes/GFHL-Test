@@ -4,6 +4,20 @@
 	<DB>
 
 		<Player>
+			<NAME>IVAN, IVAN</NAME>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=227324</WEB>
+			<TEAM>LA</TEAM>
+			<POS>FWD</POS>
+			<SLOT>1</SLOT>
+		</Player>
+		<Player>
+			<NAME>GONCLAVES, GAGE</NAME>
+			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=209896</WEB>
+			<TEAM>BOS</TEAM>
+			<POS>FWD</POS>
+			<SLOT>1</SLOT>
+		</Player>
+		<Player>
 			<NAME>MANCINI, VICTOR</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=219756</WEB>
 			<TEAM>PHI</TEAM>
@@ -11,9 +25,9 @@
 			<SLOT>1</SLOT>
 		</Player>
 		<Player>
-			<NAME>PYYTHIA, MIKAEL</NAME>
+			<NAME>PYYHTIA, MIKAEL</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=230593</WEB>
-			<TEAM>BOS</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -22,7 +36,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=189597</WEB>
 			<TEAM>CGY</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>ALLAN, NOLAN</NAME>
@@ -50,14 +64,14 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=265433</WEB>
 			<TEAM>COL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>KOEPKE, COLE</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=191942</WEB>
 			<TEAM>COL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>10</SLOT>
 		</Player>
 		<Player>
 			<NAME>KOKKO, NIKLAS</NAME>
@@ -153,7 +167,7 @@
 		<Player>
 			<NAME>GRAF, COLLIN</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=226641</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>LA</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -216,7 +230,7 @@
 		<Player>
 			<NAME>BEAUDOIN, COLE</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=251173</WEB>
-			<TEAM>COL</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -344,7 +358,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=261371</WEB>
 			<TEAM>CHI</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>NABOKOV, ILYA</NAME>
@@ -414,7 +428,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=251359</WEB>
 			<TEAM>COL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player>
 			<NAME>PAREKH, ZAYNE</NAME>
@@ -517,9 +531,9 @@
 		<Player>
 			<NAME>BJARNASON, CARSON</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=248080</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>COL</TEAM>
 			<POS>GLT</POS>
-			<SLOT>1</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>TSYPLAKOV, MAXIM</NAME>
@@ -552,7 +566,7 @@
 		<Player>
 			<NAME>HEINEMAN, EMIL</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=232198</WEB>
-			<TEAM>NYR</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -652,7 +666,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=195850</WEB>
 			<TEAM>CGY</TEAM>
 			<POS>DEF</POS>
-			<SLOT>1</SLOT>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>EMBERSON, TY</NAME>
@@ -935,7 +949,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=225170</WEB>
 			<TEAM>CGY</TEAM>
 			<POS>GLT</POS>
-			<SLOT>1</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>KOVACEVIC, JOHNATHAN</NAME>
@@ -963,7 +977,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=265421</WEB>
 			<TEAM>COL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player><NAME>FOWLER, JACOB</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=251665</WEB>
@@ -1016,7 +1030,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=260071</WEB>
 			<TEAM>COL</TEAM>
 			<POS>DEF</POS>
-			<SLOT>1</SLOT>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player>
 			<NAME>WOOD, MATTHEW</NAME>
@@ -1093,7 +1107,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=247058</WEB>
 			<TEAM>COL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>13</SLOT>
 		</Player>
 		<Player>
 			<NAME>BENSON, ZACHARY</NAME>
@@ -1383,7 +1397,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=219620</WEB>
 			<TEAM>CGY</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>8</SLOT>
 		</Player>
 		<Player><NAME>NOESEN, STEFAN</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=122895</WEB>
@@ -1513,7 +1527,7 @@
 		</Player>
 		<Player><NAME>GUSHCHIN, DANIL</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=217074</WEB>
-			<TEAM>LA</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -1585,7 +1599,7 @@
 		</Player>
 		<Player><NAME>ATTARD, RONNIE</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=197717</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>NYR</TEAM>
 			<POS>DEF</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -1785,7 +1799,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=238286</WEB>
 			<TEAM>CHI</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player><NAME>KEMELL, JOAKIM</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=241535</WEB>
@@ -1923,7 +1937,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=211454</WEB>
 			<TEAM>COL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>4</SLOT>
 		</Player>
 		<Player><NAME>MEYERS, BEN</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=196578</WEB>
@@ -2013,7 +2027,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=176927</WEB>
 			<TEAM>CHI</TEAM>
 			<POS>DEF</POS>
-			<SLOT>1</SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player><NAME>LARSSON, JOHAN</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=127786</WEB>
@@ -2307,7 +2321,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=211142</WEB>
 			<TEAM>COL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>5</SLOT>
 		</Player>
 		<Player><NAME>MIROMANOV, DANIIL</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=177591</WEB>
@@ -2565,7 +2579,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=219664</WEB>
 			<TEAM>COL</TEAM>
 			<POS>GLT</POS>
-			<SLOT>1</SLOT>
+			<SLOT>20</SLOT>
 		</Player>
 		<Player><NAME>HUGHES, LUKE</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=228217</WEB>
@@ -2703,7 +2717,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=182232</WEB>
 			<TEAM>CGY</TEAM>
 			<POS>GLT</POS>
-			<SLOT>1</SLOT>
+			<SLOT>20</SLOT>
 		</Player>
 		<Player><NAME>GADJOVICH, JONAH</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=177566</WEB>
@@ -2943,7 +2957,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=187480</WEB>
 			<TEAM>CHI</TEAM>
 			<POS>DEF</POS>
-			<SLOT>1</SLOT>
+			<SLOT>15</SLOT>
 		</Player>
 		<Player><NAME>BROME, MATHIAS</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=172984</WEB>
@@ -3033,7 +3047,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=202503</WEB>
 			<TEAM>CHI</TEAM>
 			<POS>DEF</POS>
-			<SLOT>1</SLOT>
+			<SLOT>16</SLOT>
 		</Player>
 		<Player><NAME>GEEKIE, MORGAN</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=172640</WEB>
@@ -3489,7 +3503,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=208587</WEB>
 			<TEAM>COL</TEAM>
 			<POS>DEF</POS>
-			<SLOT>1</SLOT>
+			<SLOT>14</SLOT>
 		</Player>
 		<Player><NAME>RAFFERTY, BROGAN</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=165340</WEB>
@@ -3621,7 +3635,7 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130705</WEB>
 			<TEAM>CHI</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>3</SLOT>
 		</Player>
 		<Player><NAME>ACCIARI, NOEL</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=160732</WEB>
@@ -3645,7 +3659,7 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=106623</WEB>
 			<TEAM>CHI</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player><NAME>SOUCY, CARSON</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=152151</WEB>
@@ -3663,7 +3677,7 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=211453</WEB>
 			<TEAM>COL</TEAM>
 			<POS>GLT</POS>
-			<SLOT>1</SLOT>
+			<SLOT>19</SLOT>
 		</Player>
 		<Player><NAME>LESKINEN, OTTO</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=186130</WEB>
@@ -3789,7 +3803,7 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=161684</WEB>
 			<TEAM>CHI</TEAM>
 			<POS>DEF</POS>
-			<SLOT>1</SLOT>
+			<SLOT>11</SLOT>
 		</Player>
 		<Player><NAME>ELVENES, LUCAS</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=196776</WEB>
@@ -3957,7 +3971,7 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=134193</WEB>
 			<TEAM>CHI</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>9</SLOT>
 		</Player>
 		<Player><NAME>LIZOTTE, BLAKE</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=176501</WEB>
@@ -4261,7 +4275,7 @@
 		</Player>
 		<Player><NAME>SODERSTROM, VICTOR</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=218249</WEB>
-			<TEAM>CAR</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -4365,7 +4379,7 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=209480</WEB>
 			<TEAM>CGY</TEAM>
 			<POS>GLT</POS>
-			<SLOT>1</SLOT>
+			<SLOT>19</SLOT>
 		</Player>
 		<Player><NAME>BROBERG, PHILIP</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=218397</WEB>
@@ -4773,7 +4787,7 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=122868</WEB>
 			<TEAM>CGY</TEAM>
 			<POS>DEF</POS>
-			<SLOT>1</SLOT>
+			<SLOT>11</SLOT>
 		</Player>
 		<Player><NAME>SHATTENKIRK, KEVIN</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=105410</WEB>
@@ -4785,13 +4799,13 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=170354</WEB>
 			<TEAM>CGY</TEAM>
 			<POS>DEF</POS>
-			<SLOT>1</SLOT>
+			<SLOT>15</SLOT>
 		</Player>
 		<Player><NAME>GIRARD, SAMUEL</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=176679</WEB>
 			<TEAM>CGY</TEAM>
 			<POS>DEF</POS>
-			<SLOT>1</SLOT>
+			<SLOT>14</SLOT>
 		</Player>
 		<Player><NAME>FOWLER, CAM</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=120956</WEB>
@@ -4809,7 +4823,7 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=111711</WEB>
 			<TEAM>CGY</TEAM>
 			<POS>GLT</POS>
-			<SLOT>1</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player><NAME>SEKERA, ANDREJ</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=78470</WEB>
@@ -4821,7 +4835,7 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=153018</WEB>
 			<TEAM>CGY</TEAM>
 			<POS>DEF</POS>
-			<SLOT>1</SLOT>
+			<SLOT>16</SLOT>
 		</Player>
 		<Player><NAME>OVECHKIN, ALEX</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=63735</WEB>
@@ -4839,7 +4853,7 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=123293</WEB>
 			<TEAM>CHI</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>6</SLOT>
 		</Player>
 		<Player><NAME>TANEV, BRANDON</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130410</WEB>
@@ -4869,7 +4883,7 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=120283</WEB>
 			<TEAM>CHI</TEAM>
 			<POS>DEF</POS>
-			<SLOT>1</SLOT>
+			<SLOT>14</SLOT>
 		</Player>
 		<Player><NAME>EDMUNDSON, JOEL</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130643</WEB>
@@ -4917,13 +4931,13 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=176718</WEB>
 			<TEAM>COL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>3</SLOT>
 		</Player>
 		<Player><NAME>KERFOOT, ALEX</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=139246</WEB>
 			<TEAM>CHI</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>5</SLOT>
 		</Player>
 		<Player><NAME>BAILEY, JUSTIN</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=149191</WEB>
@@ -4935,7 +4949,7 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=158171</WEB>
 			<TEAM>COL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>7</SLOT>
 		</Player>
 		<Player><NAME>LINDBLOM, OSKAR</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=172712</WEB>
@@ -4947,7 +4961,7 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=115908</WEB>
 			<TEAM>COL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>9</SLOT>
 		</Player>
 		<Player><NAME>PEARSON, TANNER</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130530</WEB>
@@ -4965,11 +4979,11 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=137663</WEB>
 			<TEAM>COL</TEAM>
 			<POS>DEF</POS>
-			<SLOT>1</SLOT>
+			<SLOT>12</SLOT>
 		</Player>
 		<Player><NAME>MILLER, COLIN</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130532</WEB>
-			<TEAM>LA</TEAM>
+			<TEAM>fa</TEAM>
 			<POS>DEF</POS>
 			<SLOT>1</SLOT>
 		</Player>
@@ -5007,13 +5021,13 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=159892</WEB>
 			<TEAM>COL</TEAM>
 			<POS>GLT</POS>
-			<SLOT>1</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player><NAME>FROST, MORGAN</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=187447</WEB>
 			<TEAM>COL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>6</SLOT>
 		</Player>
 		<Player><NAME>CHEKHOVICH, IVAN</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=195919</WEB>
@@ -5025,7 +5039,7 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=124409</WEB>
 			<TEAM>COL</TEAM>
 			<POS>DEF</POS>
-			<SLOT>1</SLOT>
+			<SLOT>11</SLOT>
 		</Player>
 		<Player><NAME>SCHWARTZ, JADEN</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=118953</WEB>
@@ -5043,7 +5057,7 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=96607</WEB>
 			<TEAM>CGY</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>9</SLOT>
 		</Player>
 		<Player><NAME>RYAN, DEREK</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=77306</WEB>
@@ -5079,7 +5093,7 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130914</WEB>
 			<TEAM>CGY</TEAM>
 			<POS>DEF</POS>
-			<SLOT>1</SLOT>
+			<SLOT>12</SLOT>
 		</Player>
 		<Player><NAME>PARAYKO, COLTON</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=139539</WEB>
@@ -5139,7 +5153,7 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=118389</WEB>
 			<TEAM>CGY</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player><NAME>SMITH, REILLY</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=115612</WEB>
@@ -5241,7 +5255,7 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=142653</WEB>
 			<TEAM>CGY</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player><NAME>BUCHNEVICH, PAVEL</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=159355</WEB>
@@ -5373,7 +5387,7 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=170174</WEB>
 			<TEAM>CHI</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>4</SLOT>
 		</Player>
 		<Player><NAME>VORACEK, JAKUB</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=93546</WEB>
@@ -5385,7 +5399,7 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=127797</WEB>
 			<TEAM>CHI</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>10</SLOT>
 		</Player>
 		<Player><NAME>BONINO, NICK</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=105377</WEB>
@@ -5421,7 +5435,7 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=87893</WEB>
 			<TEAM>CHI</TEAM>
 			<POS>GLT</POS>
-			<SLOT>1</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player><NAME>KUEMPER, DARCY</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=102649</WEB>
@@ -5559,7 +5573,7 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=155408</WEB>
 			<TEAM>CGY</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>10</SLOT>
 		</Player>
 		<Player><NAME>WILSON, TOM</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130599</WEB>
@@ -5667,7 +5681,7 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=195962</WEB>
 			<TEAM>CHI</TEAM>
 			<POS>GLT</POS>
-			<SLOT>1</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player><NAME>DOBSON, NOAH</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=195929</WEB>
@@ -5679,7 +5693,7 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=191305</WEB>
 			<TEAM>COL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>8</SLOT>
 		</Player>
 		<Player><NAME>HISCHIER, NICO</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=191825</WEB>
@@ -5829,7 +5843,7 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=139958</WEB>
 			<TEAM>CGY</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>2</SLOT>
 		</Player>
 		<Player><NAME>MILLER, J.T.</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=123367</WEB>
@@ -5925,7 +5939,7 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=112814</WEB>
 			<TEAM>CHI</TEAM>
 			<POS>GLT</POS>
-			<SLOT>1</SLOT>
+			<SLOT>20</SLOT>
 		</Player>
 		<Player><NAME>JENNER, BOONE</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=122877</WEB>
@@ -6135,7 +6149,7 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=116100</WEB>
 			<TEAM>CHI</TEAM>
 			<POS>GLT</POS>
-			<SLOT>1</SLOT>
+			<SLOT>19</SLOT>
 		</Player>
 		<Player><NAME>ANDERSSON, LIAS</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=192069</WEB>
@@ -6297,7 +6311,7 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=99570</WEB>
 			<TEAM>CHI</TEAM>
 			<POS>DEF</POS>
-			<SLOT>1</SLOT>
+			<SLOT>12</SLOT>
 		</Player>
 		<Player><NAME>LINDHOLM, HAMPUS</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=152875</WEB>
@@ -6309,7 +6323,7 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=166828</WEB>
 			<TEAM>COL</TEAM>
 			<POS>DEF</POS>
-			<SLOT>1</SLOT>
+			<SLOT>16</SLOT>
 		</Player>
 		<Player><NAME>JOHANSEN, LUCAS</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=169246</WEB>
@@ -6393,7 +6407,7 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=160632</WEB>
 			<TEAM>CGY</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>6</SLOT>
 		</Player>
 		<Player><NAME>NAMESTNIKOV, VLADISLAV</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130533</WEB>
@@ -6435,7 +6449,7 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=120914</WEB>
 			<TEAM>CHI</TEAM>
 			<POS>DEF</POS>
-			<SLOT>1</SLOT>
+			<SLOT>13</SLOT>
 		</Player>
 		<Player><NAME>SLAVIN, JACCOB</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=132851</WEB>
@@ -6573,7 +6587,7 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=166009</WEB>
 			<TEAM>CGY</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>4</SLOT>
 		</Player>
 		<Player><NAME>EHLERS, NIKOLAJ</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=164346</WEB>
@@ -6675,7 +6689,7 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=180592</WEB>
 			<TEAM>CGY</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>7</SLOT>
 		</Player>
 		<Player><NAME>KURALY, SEAN</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=124249</WEB>
@@ -6699,7 +6713,7 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=180272</WEB>
 			<TEAM>COL</TEAM>
 			<POS>DEF</POS>
-			<SLOT>1</SLOT>
+			<SLOT>15</SLOT>
 		</Player>
 		<Player><NAME>MONTOUR, BRANDON</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=170326</WEB>
@@ -6831,7 +6845,7 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=144613</WEB>
 			<TEAM>CGY</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>5</SLOT>
 		</Player>
 		<Player><NAME>CIRELLI, ANTHONY</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=171437</WEB>
@@ -6921,13 +6935,13 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=196151</WEB>
 			<TEAM>COL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>2</SLOT>
 		</Player>
 		<Player><NAME>BOQVIST, ADAM</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=210177</WEB>
 			<TEAM>CGY</TEAM>
 			<POS>DEF</POS>
-			<SLOT>1</SLOT>
+			<SLOT>13</SLOT>
 		</Player>
 		<Player><NAME>LARSSON, FILIP</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=194135</WEB>
@@ -7179,7 +7193,7 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=124022</WEB>
 			<TEAM>CHI</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>2</SLOT>
 		</Player>
 		<Player><NAME>YAMAMOTO, KAILER</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=177091</WEB>
@@ -7197,7 +7211,7 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=127134</WEB>
 			<TEAM>CHI</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>7</SLOT>
 		</Player>
 		<Player><NAME>FORBORT, DEREK</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=123316</WEB>
@@ -7419,7 +7433,7 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=177831</WEB>
 			<TEAM>CGY</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>3</SLOT>
 		</Player>
 		<Player><NAME>SHERWOOD, KIEFER</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=161165</WEB>
@@ -7665,7 +7679,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=187102</WEB>
 			<TEAM>CHI</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>8</SLOT>
 		</Player>
 		<Player><NAME>SVOZIL, STANISLAV</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=228173</WEB>
@@ -7675,7 +7689,7 @@
 		</Player>
 		<Player><NAME>KAPANEN, OLIVER</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=241782</WEB>
-			<TEAM>fa</TEAM>
+			<TEAM>CAR</TEAM>
 			<POS>FWD</POS>
 			<SLOT>1</SLOT>
 		</Player>
