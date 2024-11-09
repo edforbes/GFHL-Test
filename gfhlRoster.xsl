@@ -218,8 +218,8 @@ table.TeamTitleNSH {border-width: 0px;
 	border-style: ridge;
 	border-collapse: collapse;
 	width: 285px;
-	background: #FFB81C;
-	color: #041E42;}
+	background: #041E42;
+	color: #FFB81C;}
 
 table.TeamRosterNSH {border-width: 0px;
 	font-size: 14px;
@@ -273,7 +273,7 @@ table.TeamRosterSEA {border-width: 0px;
 	background-repeat: no-repeat;
 	background-image: url('image/Rosters/Seattle');
 	background-size: 285px 520px;
-	color: #051C2C;}
+	color: #6BA4B8;}
 	
 table.TeamTitleSTL {border-width: 0px;
 	font-size: 14px;
@@ -407,7 +407,7 @@ a.DAL		 {color:#010101;}
 a.EDM		 {color:#CF4520;}
 a.LA		 {color:#A2AAAD;}
 a.MIN		 {color:#EAAA00;}
-a.NSH		 {color:#041E42;}
+a.NSH		 {color:#FFB81C;}
 a.SJ		 {color:#010101;}
 a.SEA		 {color:#6BA4B8;}
 a.STL		 {color:#FFB81C;}
