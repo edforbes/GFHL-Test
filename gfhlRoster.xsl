@@ -147,7 +147,7 @@ table.TeamRosterDAL {border-width: 0px;
 	background-repeat: no-repeat;
 	background-image: url('image/Rosters/Dallas');
 	background-size: 285px 520px;
-	color: #010101;}
+	color: #00843D;}
 
 table.TeamTitleEDM {border-width: 0px;
 	font-size: 14px;
@@ -252,7 +252,7 @@ table.TeamRosterSJ {border-width: 0px;
 	background-repeat: no-repeat;
 	background-image: url('image/Rosters/SanJose');
 	background-size: 285px 520px;
-	color: #010101;}
+	color: #006271;}
 	
 table.TeamTitleSEA {border-width: 0px;
 	font-size: 14px;
@@ -357,7 +357,7 @@ table.TeamRosterVGK {border-width: 0px;
 	background-repeat: no-repeat;
 	background-image: url('image/Rosters/Vegas');
 	background-size: 285px 520px;
-	color: #010101;}
+	color: #333F48;}
 	
 table.TeamTitleWPG {border-width: 0px;
 	font-size: 14px;
@@ -440,6 +440,7 @@ a.colorforward	 {color:#FFFFFF;}
 				<table class="TeamRosterANA">
 					<xsl:for-each select="GFHL/DB/Player[TEAM='ANA']">
 					      	<xsl:sort select="SLOT" data-type="number" order="ascending"/>
+						<xsl:sort select="NAME" data-type="number" order="ascending"/>
 						<tr>
 							<td class="no">
 								<xsl:choose>
@@ -473,6 +474,7 @@ a.colorforward	 {color:#FFFFFF;}
 				<table class="TeamRosterCGY">
 					<xsl:for-each select="GFHL/DB/Player[TEAM='CGY']">
 					      	<xsl:sort select="SLOT" data-type="number" order="ascending"/>
+						<xsl:sort select="NAME" data-type="number" order="ascending"/>
 						<tr>
 							<td class="no">
 								<xsl:choose>
@@ -506,6 +508,7 @@ a.colorforward	 {color:#FFFFFF;}
 				<table class="TeamRosterCHI">
 					<xsl:for-each select="GFHL/DB/Player[TEAM='CHI']">
 					      	<xsl:sort select="SLOT" data-type="number" order="ascending"/>
+						<xsl:sort select="NAME" data-type="number" order="ascending"/>
 						<tr>
 							<td class="no">
 								<xsl:choose>
@@ -539,6 +542,7 @@ a.colorforward	 {color:#FFFFFF;}
 				<table class="TeamRosterCOL">
 					<xsl:for-each select="GFHL/DB/Player[TEAM='COL']">
 					      	<xsl:sort select="SLOT" data-type="number" order="ascending"/>
+						<xsl:sort select="NAME" data-type="number" order="ascending"/>
 						<tr>
 							<td class="no">
 								<xsl:choose>
@@ -578,6 +582,7 @@ a.colorforward	 {color:#FFFFFF;}
 				<table class="TeamRosterDAL">
 					<xsl:for-each select="GFHL/DB/Player[TEAM='DAL']">
 					      	<xsl:sort select="SLOT" data-type="number" order="ascending"/>
+						<xsl:sort select="NAME" data-type="number" order="ascending"/>
 						<tr>
 							<td class="no">
 								<xsl:choose>
@@ -611,6 +616,7 @@ a.colorforward	 {color:#FFFFFF;}
 				<table class="TeamRosterEDM">
 					<xsl:for-each select="GFHL/DB/Player[TEAM='EDM']">
 					      	<xsl:sort select="SLOT" data-type="number" order="ascending"/>
+						<xsl:sort select="NAME" data-type="number" order="ascending"/>
 						<tr>
 							<td class="no">
 								<xsl:choose>
@@ -644,6 +650,7 @@ a.colorforward	 {color:#FFFFFF;}
 				<table class="TeamRosterLA">
 					<xsl:for-each select="GFHL/DB/Player[TEAM='LA']">
 					      	<xsl:sort select="SLOT" data-type="number" order="ascending"/>
+						<xsl:sort select="NAME" data-type="number" order="ascending"/>
 						<tr>
 							<td class="no">
 								<xsl:choose>
@@ -677,6 +684,7 @@ a.colorforward	 {color:#FFFFFF;}
 				<table class="TeamRosterMIN">
 					<xsl:for-each select="GFHL/DB/Player[TEAM='MIN']">
 					      	<xsl:sort select="SLOT" data-type="number" order="ascending"/>
+						<xsl:sort select="NAME" data-type="number" order="ascending"/>
 						<tr>
 							<td class="no">
 								<xsl:choose>
@@ -716,6 +724,7 @@ a.colorforward	 {color:#FFFFFF;}
 				<table class="TeamRosterNSH">
 					<xsl:for-each select="GFHL/DB/Player[TEAM='NSH']">
 					      	<xsl:sort select="SLOT" data-type="number" order="ascending"/>
+						<xsl:sort select="NAME" data-type="number" order="ascending"/>
 						<tr>
 							<td class="no">
 								<xsl:choose>
@@ -749,6 +758,7 @@ a.colorforward	 {color:#FFFFFF;}
 				<table class="TeamRosterSJ">
 					<xsl:for-each select="GFHL/DB/Player[TEAM='SJ']">
 					      	<xsl:sort select="SLOT" data-type="number" order="ascending"/>
+						<xsl:sort select="NAME" data-type="number" order="ascending"/>
 						<tr>
 							<td class="no">
 								<xsl:choose>
@@ -783,6 +793,7 @@ a.colorforward	 {color:#FFFFFF;}
 				<table class="TeamRosterSEA">
 					<xsl:for-each select="GFHL/DB/Player[TEAM='SEA']">
 					      	<xsl:sort select="SLOT" data-type="number" order="ascending"/>
+						<xsl:sort select="NAME" data-type="number" order="ascending"/>
 						<tr>
 							<td class="no">
 								<xsl:choose>
@@ -816,6 +827,7 @@ a.colorforward	 {color:#FFFFFF;}
 				<table class="TeamRosterSTL">
 					<xsl:for-each select="GFHL/DB/Player[TEAM='STL']">
 					      	<xsl:sort select="SLOT" data-type="number" order="ascending"/>
+						<xsl:sort select="NAME" data-type="number" order="ascending"/>
 						<tr>
 							<td class="no">
 								<xsl:choose>
@@ -855,6 +867,7 @@ a.colorforward	 {color:#FFFFFF;}
 				<table class="TeamRosterUTA">
 					<xsl:for-each select="GFHL/DB/Player[TEAM='UTA']">
 					      	<xsl:sort select="SLOT" data-type="number" order="ascending"/>
+						<xsl:sort select="NAME" data-type="number" order="ascending"/>
 						<tr>
 							<td class="no">
 								<xsl:choose>
@@ -888,6 +901,7 @@ a.colorforward	 {color:#FFFFFF;}
 				<table class="TeamRosterVAN">
 					<xsl:for-each select="GFHL/DB/Player[TEAM='VAN']">
 					      	<xsl:sort select="SLOT" data-type="number" order="ascending"/>
+						<xsl:sort select="NAME" data-type="number" order="ascending"/>
 						<tr>
 							<td class="no">
 								<xsl:choose>
@@ -921,6 +935,7 @@ a.colorforward	 {color:#FFFFFF;}
 				<table class="TeamRosterVGK">
 					<xsl:for-each select="GFHL/DB/Player[TEAM='VGK']">
 					      	<xsl:sort select="SLOT" data-type="number" order="ascending"/>
+						<xsl:sort select="NAME" data-type="number" order="ascending"/>
 						<tr>
 							<td class="no">
 								<xsl:choose>
@@ -954,6 +969,7 @@ a.colorforward	 {color:#FFFFFF;}
 				<table class="TeamRosterWPG">
 					<xsl:for-each select="GFHL/DB/Player[TEAM='WPG']">
 					      	<xsl:sort select="SLOT" data-type="number" order="ascending"/>
+						<xsl:sort select="NAME" data-type="number" order="ascending"/>
 						<tr>
 							<td class="no">
 								<xsl:choose>
