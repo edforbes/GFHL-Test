@@ -50,8 +50,8 @@ table.TeamTitleANA {border-width: 0px;
 	border-style: ridge;
 	border-collapse: collapse;
 	width: 285px;
-	background: #000000;
-	color: #89734C;}
+	background: #CF4520;
+	color: #010101;}
 
 table.TeamRosterANA {border-width: 0px;
 	font-size: 14px;
@@ -63,7 +63,7 @@ table.TeamRosterANA {border-width: 0px;
 	background-repeat: no-repeat;
 	background-image: url('image/Rosters/Anaheim');
 	background-size: 285px 520px;
-	color: #000000;}
+	color: #CF4520;}
 
 table.TeamTitleCGY {border-width: 0px;
 	font-size: 14px;
@@ -113,8 +113,8 @@ table.TeamTitleCOL {border-width: 0px;
 	border-style: ridge;
 	border-collapse: collapse;
 	width: 285px;
-	background: #C8102E;
-	color: #F1BE48;}
+	background: #6F263D;
+	color: #236192;}
 
 table.TeamRosterCOL {border-width: 0px;
 	font-size: 14px;
@@ -126,7 +126,7 @@ table.TeamRosterCOL {border-width: 0px;
 	background-repeat: no-repeat;
 	background-image: url('image/Rosters/Colorado');
 	background-size: 285px 520px;
-	color: #236192;}
+	color: #6F263D;}
 
 table.TeamTitleDAL {border-width: 0px;
 	font-size: 14px;
@@ -176,8 +176,8 @@ table.TeamTitleLA {border-width: 0px;
 	border-style: ridge;
 	border-collapse: collapse;
 	width: 285px;
-	background: #010101;
-	color: #A2AAAD;}
+	background: #A2AAAD;
+	color: #010101;}
 
 table.TeamRosterLA {border-width: 0px;
 	font-size: 14px;
