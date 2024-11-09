@@ -105,7 +105,7 @@ table.TeamRosterCHI {border-width: 0px;
 	background-repeat: no-repeat;
 	background-image: url('image/Rosters/Chicago');
 	background-size: 285px 520px;
-	color: #FFFFFF;}
+	color: #C8102E;}
 	
 table.TeamTitleCOL {border-width: 0px;
 	font-size: 14px;
@@ -122,7 +122,7 @@ table.TeamRosterCOL {border-width: 0px;
 	border-style: ridge;
 	border-collapse: collapse;
 	width: 285px;
-	background: #236192;
+	background: #FFFFFF;
 	background-repeat: no-repeat;
 	background-image: url('image/Rosters/Colorado');
 	background-size: 285px 520px;
@@ -400,6 +400,21 @@ a:hover, a:active {
 	}
 
 a.ANA		 {color:#89734C;}
+a.CGY		 {color:#F1BE48;}
+a.CHI		 {color:#010101;}
+a.COL		 {color:#236192;}
+a.DAL		 {color:#010101;}
+a.EDM		 {color:#CF4520;}
+a.LA		 {color:#A2AAAD;}
+a.MIN		 {color:#EAAA00;}
+a.NSH		 {color:#041E42;}
+a.SJ		 {color:#010101;}
+a.SEA		 {color:#6BA4B8;}
+a.STL		 {color:#FFB81C;}
+a.UTA		 {color:#010101;}
+a.VAN		 {color:#00843D;}
+a.VGK		 {color:#333F48;}
+a.WPG		 {color:#A2AAAD;}
 a.colorgoalie	 {color:#FF0000;}
 a.colordefman	 {color:#7CFC00;}
 a.colorfreeagent {color:#800080;}
