@@ -337,21 +337,21 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=241004</WEB>
 			<TEAM>DAL</TEAM>
 			<POS>DEF</POS>
-			<SLOT>1</SLOT>
+			<SLOT>12</SLOT>
 		</Player>
 		<Player>
 			<NAME>CONNELLY, TREVOR</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=261746</WEB>
 			<TEAM>DAL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player>
 			<NAME>SILAYEV, ANTON</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=268690</WEB>
 			<TEAM>DAL</TEAM>
 			<POS>DEF</POS>
-			<SLOT>1</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player>
 			<NAME>BOISVERT, SACHA</NAME>
@@ -769,7 +769,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=200229</WEB>
 			<TEAM>DAL</TEAM>
 			<POS>DEF</POS>
-			<SLOT>1</SLOT>
+			<SLOT>16</SLOT>
 		</Player>
 		<Player>
 			<NAME>BURROUGHS, KYLE</NAME>
@@ -825,7 +825,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=235316</WEB>
 			<TEAM>DAL</TEAM>
 			<POS>DEF</POS>
-			<SLOT>1</SLOT>
+			<SLOT>13</SLOT>
 		</Player>
 		<Player>
 			<NAME>VORONKOV, DMITRY</NAME>
@@ -846,7 +846,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=248738</WEB>
 			<TEAM>DAL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>8</SLOT>
 		</Player>
 		<Player>
 			<NAME>PUUSTINEN, VALTTERI</NAME>
@@ -1009,7 +1009,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=248115</WEB>
 			<TEAM>DAL</TEAM>
 			<POS>GLT</POS>
-			<SLOT>1</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player>
 			<NAME>DANIELSON, NATE</NAME>
@@ -1313,7 +1313,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=186185</WEB>
 			<TEAM>DAL</TEAM>
 			<POS>DEF</POS>
-			<SLOT>1</SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player><NAME>NOVAK, THOMAS</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=173610</WEB>
@@ -1571,13 +1571,13 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=210112</WEB>
 			<TEAM>DAL</TEAM>
 			<POS>GLT</POS>
-			<SLOT>1</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player><NAME>MCBAIN, JACK</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=194695</WEB>
 			<TEAM>DAL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player><NAME>ROY, JOSHUA</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=227346</WEB>
@@ -1625,7 +1625,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=218693</WEB>
 			<TEAM>DAL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>5</SLOT>
 		</Player>
 		<Player><NAME>MANNINEN, SAKARI</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=169518</WEB>
@@ -1703,7 +1703,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=238276</WEB>
 			<TEAM>DAL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>6</SLOT>
 		</Player>
 		<Player><NAME>LEINONEN, TOPIAS</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=250696</WEB>
@@ -1805,7 +1805,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=241535</WEB>
 			<TEAM>DAL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>2</SLOT>
 		</Player>
 		<Player><NAME>LEKKERIMAKI, JONATHAN</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=244123</WEB>
@@ -2129,7 +2129,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=177835</WEB>
 			<TEAM>DAL</TEAM>
 			<POS>GLT</POS>
-			<SLOT>1</SLOT>
+			<SLOT>20</SLOT>
 		</Player>
 		<Player><NAME>DURZI, SEAN</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=176789</WEB>
@@ -2975,7 +2975,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=207017</WEB>
 			<TEAM>DAL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>9</SLOT>
 		</Player>
 		<Player><NAME>SENN, GILLES</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=177011</WEB>
@@ -4007,7 +4007,7 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=217206</WEB>
 			<TEAM>DAL</TEAM>
 			<POS>DEF</POS>
-			<SLOT>1</SLOT>
+			<SLOT>14</SLOT>
 		</Player>
 		<Player><NAME>BJORNFOT, TOBIAS</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=222896</WEB>
@@ -4073,7 +4073,7 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=170147</WEB>
 			<TEAM>DAL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>10</SLOT>
 		</Player>
 		<Player><NAME>WEAL, JORDAN</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=110234</WEB>
@@ -4211,7 +4211,7 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130818</WEB>
 			<TEAM>DAL</TEAM>
 			<POS>DEF</POS>
-			<SLOT>1</SLOT>
+			<SLOT>11</SLOT>
 		</Player>
 		<Player><NAME>NYGARD, JOAKIM</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=164479</WEB>
@@ -4691,7 +4691,7 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=139295</WEB>
 			<TEAM>DAL</TEAM>
 			<POS>DEF</POS>
-			<SLOT>1</SLOT>
+			<SLOT>15</SLOT>
 		</Player>
 		<Player><NAME>BOGOSIAN, ZACH</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=96505</WEB>
@@ -4781,7 +4781,7 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=104255</WEB>
 			<TEAM>DAL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>3</SLOT>
 		</Player>
 		<Player><NAME>HAMILTON, DOUGIE</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=122868</WEB>
@@ -5129,7 +5129,7 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=120939</WEB>
 			<TEAM>DAL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>7</SLOT>
 		</Player>
 		<Player><NAME>DERMOTT, TRAVIS</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=159226</WEB>
@@ -5273,7 +5273,7 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=160569</WEB>
 			<TEAM>DAL</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>4</SLOT>
 		</Player>
 		<Player><NAME>GIROUX, CLAUDE</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=89489</WEB>
@@ -7259,7 +7259,7 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=139929</WEB>
 			<TEAM>DAL</TEAM>
 			<POS>GLT</POS>
-			<SLOT>1</SLOT>
+			<SLOT>19</SLOT>
 		</Player>
 		<Player><NAME>LINDGREN, CHARLIE</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=145506</WEB>
