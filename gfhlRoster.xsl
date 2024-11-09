@@ -210,7 +210,7 @@ table.TeamRosterMIN {border-width: 0px;
 	background-repeat: no-repeat;
 	background-image: url('image/Rosters/Minnesota');
 	background-size: 285px 520px;
-	color: #EAAA00;}
+	color: #154734;}
 
 table.TeamTitleNSH {border-width: 0px;
 	font-size: 14px;
@@ -273,7 +273,7 @@ table.TeamRosterSEA {border-width: 0px;
 	background-repeat: no-repeat;
 	background-image: url('image/Rosters/Seattle');
 	background-size: 285px 520px;
-	color: #6BA4B8;}
+	color: #051C2C;}
 	
 table.TeamTitleSTL {border-width: 0px;
 	font-size: 14px;
