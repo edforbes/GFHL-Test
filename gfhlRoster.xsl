@@ -405,7 +405,7 @@ a.CHI		 {color:#010101;}
 a.COL		 {color:#236192;}
 a.DAL		 {color:#010101;}
 a.EDM		 {color:#CF4520;}
-a.LA		 {color:#A2AAAD;}
+a.LA		 {color:#010101;}
 a.MIN		 {color:#EAAA00;}
 a.NSH		 {color:#FFB81C;}
 a.SJ		 {color:#010101;}
