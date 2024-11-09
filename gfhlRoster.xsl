@@ -433,9 +433,9 @@ a.colorforward	 {color:#FFFFFF;}
 		<tr>
 			<td class="no" >
 				<table class="TeamTitleANA">
-					<tr>	<td class="no" /><td class="no"> <center> ANAHEIM DUCKS </center> </td>						</tr>
-					<tr> 	<td class="no" /><td class="no"> <center> GM: <a href="mailto:timjhamilton@hotmail.com" class="ANA"> TIM </a> </center></td></tr>
-					<tr>	<td class="no" /><td class="no"> <br/> </td>									</tr>
+					<tr>	<td class="no" /><td class="no"> <center> ANAHEIM DUCKS </center> </td>								</tr>
+					<tr> 	<td class="no" /><td class="no"> <center> GM: <a href="mailto:timjhamilton@hotmail.com" class="ANA"> TIM </a> </center></td>	</tr>
+					<tr>	<td class="no" /><td class="no"> <br/> </td>											</tr>
 				</table>
 				<table class="TeamRosterANA">
 					<xsl:for-each select="GFHL/DB/Player[TEAM='ANA']">
@@ -466,9 +466,9 @@ a.colorforward	 {color:#FFFFFF;}
 			</td>
 			<td class="no" >
 				<table class="TeamTitleCGY">
-					<tr>	<td class="no" /><td class="no"> <center> CALGARY FLAMES </center> </td>					</tr>
-					<tr>	<td class="no" /><td class="no"> <center> GM: <a href="mailto:jachan87@gmail.com"> JAY </a> </center> </td>	</tr>
-					<tr>	<td class="no" /><td class="no"> <br /> </td>									</tr>
+					<tr>	<td class="no" /><td class="no"> <center> CALGARY FLAMES </center> </td>						</tr>
+					<tr>	<td class="no" /><td class="no"> <center> GM: <a href="mailto:jachan87@gmail.com" class="CGY"> JAY </a> </center> </td>	</tr>
+					<tr>	<td class="no" /><td class="no"> <br /> </td>										</tr>
 				</table>
 				<table class="TeamRosterCGY">
 					<xsl:for-each select="GFHL/DB/Player[TEAM='CGY']">
@@ -499,9 +499,9 @@ a.colorforward	 {color:#FFFFFF;}
 			</td>
 			<td class="no" >
 				<table class="TeamTitleCHI">
-					<tr>	<td class="no" /><td class="no"> <center> CHICAGO BLACKHAWKS </center> </td>					</tr>
-					<tr>	<td class="no" /><td class="no"> <center> GM: <a href="mailto:jdfitz12@yahoo.com"> JOHN </a> </center> </td>	</tr>
-					<tr>	<td class="no" /><td class="no"> <br /> </td>									</tr>
+					<tr>	<td class="no" /><td class="no"> <center> CHICAGO BLACKHAWKS </center> </td>							</tr>
+					<tr>	<td class="no" /><td class="no"> <center> GM: <a href="mailto:jdfitz12@yahoo.com" class="CHI"> JOHN </a> </center> </td>	</tr>
+					<tr>	<td class="no" /><td class="no"> <br /> </td>											</tr>
 				</table>	
 				<table class="TeamRosterCHI">
 					<xsl:for-each select="GFHL/DB/Player[TEAM='CHI']">
@@ -532,9 +532,9 @@ a.colorforward	 {color:#FFFFFF;}
 			</td>
 			<td class="no" >
 				<table class="TeamTitleCOL">
-					<tr>	<td class="no" /><td class="no"> <center> COLORADO AVALANCHE </center> </td>						</tr>
-					<tr>	<td class="no" /><td class="no"> <center> GM: <a href="mailto:hektormcdonnell@gmail.com"> SHANNON </a> </center> </td>	</tr>
-					<tr>	<td class="no" /><td class="no"> <br /> </td>										</tr>
+					<tr>	<td class="no" /><td class="no"> <center> COLORADO AVALANCHE </center> </td>								</tr>
+					<tr>	<td class="no" /><td class="no"> <center> GM: <a href="mailto:hektormcdonnell@gmail.com" class="COL"> SHANNON </a> </center> </td>	</tr>
+					<tr>	<td class="no" /><td class="no"> <br /> </td>												</tr>
 				</table>
 				<table class="TeamRosterCOL">
 					<xsl:for-each select="GFHL/DB/Player[TEAM='COL']">
@@ -571,9 +571,9 @@ a.colorforward	 {color:#FFFFFF;}
 		<tr>
 			<td class="no" >
 				<table class="TeamTitleDAL">
-					<tr>	<td class="no" /><td class="no"> <center> DALLAS STARS </center> </td>							</tr>
-					<tr> 	<td class="no" /><td class="no"> <center> GM: <a href="mailto:mailto:simonyu84@gmail.com"> SIMON </a> </center> </td>	</tr>
-					<tr>	<td class="no" /><td class="no"> <br /> </td>										</tr>
+					<tr>	<td class="no" /><td class="no"> <center> DALLAS STARS </center> </td>									</tr>
+					<tr> 	<td class="no" /><td class="no"> <center> GM: <a href="mailto:mailto:simonyu84@gmail.com" class="DAL"> SIMON </a> </center> </td>	</tr>
+					<tr>	<td class="no" /><td class="no"> <br /> </td>												</tr>
 				</table>
 				<table class="TeamRosterDAL">
 					<xsl:for-each select="GFHL/DB/Player[TEAM='DAL']">
@@ -603,10 +603,10 @@ a.colorforward	 {color:#FFFFFF;}
 				</table>
 			</td>
 			<td class="no" >
-				<table class="TeramTitleEDM">
-					<tr>	<td class="no" /><td class="no"> <center> EDMONTON OILERS </center> </td>					</tr>
-					<tr>	<td class="no" /><td class="no"> <center> GM: <a href="mailto:mjohns05@outlook.com"> MIKEY </a> </center> </td>	</tr>
-					<tr>	<td class="no" /><td class="no"> <center> HC: WAYNE GRETZKY </center> </td>					</tr>
+				<table class="TeamTitleEDM">
+					<tr>	<td class="no" /><td class="no"> <center> EDMONTON OILERS </center> </td>							</tr>
+					<tr>	<td class="no" /><td class="no"> <center> GM: <a href="mailto:mjohns05@outlook.com" class="EDM"> MIKEY </a> </center> </td>	</tr>
+					<tr>	<td class="no" /><td class="no"> <center> HC: WAYNE GRETZKY </center> </td>							</tr>
 				</table>
 				<table class="TeamRosterEDM">
 					<xsl:for-each select="GFHL/DB/Player[TEAM='EDM']">
@@ -638,8 +638,8 @@ a.colorforward	 {color:#FFFFFF;}
 			<td class="no" >
 				<table class="TeamTitleLA">
 					<tr>	<td class="no" /><td class="no"> <center> LOS ANGELES KINGS</center> </td>						</tr>
-					<tr>	<td class="no" /><td class="no"> <center> GM: <a href="mailto:tblain1@gmail.com"> TOM </a> </center> </td>	</tr>
-					<tr>	<td class="no" /><td class="no"> <br /> </td>									</tr>
+					<tr>	<td class="no" /><td class="no"> <center> GM: <a href="mailto:tblain1@gmail.com" class="LA"> TOM </a> </center> </td>	</tr>
+					<tr>	<td class="no" /><td class="no"> <br /> </td>										</tr>
 				</table>
 				<table class="TeamRosterLA">
 					<xsl:for-each select="GFHL/DB/Player[TEAM='LA']">
@@ -670,9 +670,9 @@ a.colorforward	 {color:#FFFFFF;}
 			</td>
 			<td class="no" >
 				<table class="TeamTitleMIN">
-					<tr>	<td class="no" /><td class="no"> <center> MINNESOTA WILD </center> </td>						</tr>
-					<tr>	<td class="no" /><td class="no"> <center> GM: <a href="mailto:leduc_paul@hotmail.com"> PAUL </a> </center> </td>	</tr>
-					<tr>	<td class="no" /><td class="no"> <center> HC: MARIAN GABORIK ​</center> </td>						</tr>
+					<tr>	<td class="no" /><td class="no"> <center> MINNESOTA WILD </center> </td>							</tr>
+					<tr>	<td class="no" /><td class="no"> <center> GM: <a href="mailto:leduc_paul@hotmail.com" class="MIN"> PAUL </a> </center> </td>	</tr>
+					<tr>	<td class="no" /><td class="no"> <center> HC: MARIAN GABORIK ​</center> </td>							</tr>
 				</table>
 				<table class="TeamRosterMIN">
 					<xsl:for-each select="GFHL/DB/Player[TEAM='MIN']">
@@ -709,9 +709,9 @@ a.colorforward	 {color:#FFFFFF;}
 		<tr>
 			<td class="no" >
 				<table class="TeamTitleNSH">
-					<tr>	<td class="no" /><td class="no"> <center> NASHVILLE PREDATORS </center> </td>						</tr>
-					<tr> 	<td class="no" /><td class="no"> <center> GM: <a href="mailto:bharwood84@hotmail.com"> BRETT </a> </center></td>	</tr>
-					<tr>	<td class="no" /><td class="no"> <center>  HC: MIKE FISHER​ </center> </td>						</tr>
+					<tr>	<td class="no" /><td class="no"> <center> NASHVILLE PREDATORS </center> </td>							</tr>
+					<tr> 	<td class="no" /><td class="no"> <center> GM: <a href="mailto:bharwood84@hotmail.com" class="NSH"> BRETT </a> </center></td>	</tr>
+					<tr>	<td class="no" /><td class="no"> <center>  HC: MIKE FISHER​ </center> </td>							</tr>
 				</table>
 				<table class="TeamRosterNSH">
 					<xsl:for-each select="GFHL/DB/Player[TEAM='NSH']">
@@ -742,9 +742,9 @@ a.colorforward	 {color:#FFFFFF;}
 			</td>
 			<td class="no" >
 				<table class="TeamTitleSJ">
-					<tr>	<td class="no" /><td class="no"> <center> SAN JOSE SHARKS </center> </td>						</tr>
-					<tr>	<td class="no" /><td class="no"> <center> GM: <a href="mailto:bealls77corvette@gmail.com"> PHIL </a> </center> </td>	</tr>
-					<tr>	<td class="no" /><td class="no"> <center> HC: MIKE RICCI​ </center> </td>						</tr>
+					<tr>	<td class="no" /><td class="no"> <center> SAN JOSE SHARKS </center> </td>							</tr>
+					<tr>	<td class="no" /><td class="no"> <center> GM: <a href="mailto:bealls77corvette@gmail.com" class="SJ"> PHIL </a> </center> </td>	</tr>
+					<tr>	<td class="no" /><td class="no"> <center> HC: MIKE RICCI​ </center> </td>							</tr>
 				</table>
 				<table class="TeamRosterSJ">
 					<xsl:for-each select="GFHL/DB/Player[TEAM='SJ']">
@@ -776,9 +776,9 @@ a.colorforward	 {color:#FFFFFF;}
 			</td>
 			<td class="no" >
 				<table class="TeamTitleSEA">
-					<tr>	<td class="no" /><td class="no"> <center> SEATTLE KRAKEN </center> </td>					</tr>
-					<tr>	<td class="no" /><td class="no"> <center> GM: <a href="mailto:nspaeth@hotmail.com"> NEIL </a> </center> </td>	</tr>
-					<tr>	<td class="no" /><td class="no"> <br /> </td>									</tr>
+					<tr>	<td class="no" /><td class="no"> <center> SEATTLE KRAKEN </center> </td>							</tr>
+					<tr>	<td class="no" /><td class="no"> <center> GM: <a href="mailto:nspaeth@hotmail.com" class="SEA"> NEIL </a> </center> </td>	</tr>
+					<tr>	<td class="no" /><td class="no"> <br /> </td>											</tr>
 				</table>
 				<table class="TeamRosterSEA">
 					<xsl:for-each select="GFHL/DB/Player[TEAM='SEA']">
@@ -809,9 +809,9 @@ a.colorforward	 {color:#FFFFFF;}
 			</td>
 			<td class="no" >
 				<table class="TeamTitleSTL">
-					<tr>	<td class="no" /><td class="no"> <center> ST. LOUIS BLUES </center> </td>						</tr>
-					<tr>	<td class="no" /><td class="no"> <center> GM: <a href="mailto:cultsuperhero@gmail.com"> MIKE </a> </center> </td>	</tr>
-					<tr>	<td class="no" /><td class="no"> <br /> </td>										</tr>
+					<tr>	<td class="no" /><td class="no"> <center> ST. LOUIS BLUES </center> </td>							</tr>
+					<tr>	<td class="no" /><td class="no"> <center> GM: <a href="mailto:cultsuperhero@gmail.com" class="STL"> MIKE </a> </center> </td>	</tr>
+					<tr>	<td class="no" /><td class="no"> <br /> </td>											</tr>
 				</table>
 				<table class="TeamRosterSTL">
 					<xsl:for-each select="GFHL/DB/Player[TEAM='STL']">
@@ -848,9 +848,9 @@ a.colorforward	 {color:#FFFFFF;}
 		<tr>
 			<td class="no" >
 				<table class="TeamTitleUTA">
-					<tr>	<td class="no" /><td class="no"> <center> UTAH HOCKEY CLUB </center> </td>						</tr>
-					<tr> 	<td class="no" /><td class="no"> <center> GM: <a href="mailto:mailto:gbunn19@gmail.com"> GARY </a> </center> </td>	</tr>
-					<tr>	<td class="no" /><td class="no"> <center> HC: JEREMY ROENICK </center> </td>						</tr>
+					<tr>	<td class="no" /><td class="no"> <center> UTAH HOCKEY CLUB </center> </td>							</tr>
+					<tr> 	<td class="no" /><td class="no"> <center> GM: <a href="mailto:mailto:gbunn19@gmail.com" class="UTA"> GARY </a> </center> </td>	</tr>
+					<tr>	<td class="no" /><td class="no"> <center> HC: JEREMY ROENICK </center> </td>							</tr>
 				</table>
 				<table class="TeamRosterUTA">
 					<xsl:for-each select="GFHL/DB/Player[TEAM='UTA']">
@@ -881,9 +881,9 @@ a.colorforward	 {color:#FFFFFF;}
 			</td>
 			<td class="no" >
 				<table class="TeamTitleVAN">
-					<tr>	<td class="no" /><td class="no"> <center> VANCOUVER CANUCKS </center> </td>						</tr>
-					<tr>	<td class="no" /><td class="no"> <center> GM: <a href="mailto:mcgrawtalen@gmail.com"> TALEN </a> </center> </td>	</tr>
-					<tr>	<td class="no" /><td class="no"> <br /> </td>										</tr>
+					<tr>	<td class="no" /><td class="no"> <center> VANCOUVER CANUCKS </center> </td>							</tr>
+					<tr>	<td class="no" /><td class="no"> <center> GM: <a href="mailto:mcgrawtalen@gmail.com" class="VAN"> TALEN </a> </center> </td>	</tr>
+					<tr>	<td class="no" /><td class="no"> <br /> </td>											</tr>
 				</table>
 				<table class="TeamRosterVAN">
 					<xsl:for-each select="GFHL/DB/Player[TEAM='VAN']">
@@ -914,9 +914,9 @@ a.colorforward	 {color:#FFFFFF;}
 			</td>
 			<td class="no" >
 				<table class="TeamTitleVGK">
-					<tr>	<td class="no" /><td class="no"> <center> VEGAS GOLDEN KNIGHTS</center> </td>						</tr>
-					<tr>	<td class="no" /><td class="no"> <center> GM: <a href="mailto:martybaroni@gmail.com"> MARTY </a> </center> </td>	</tr>
-					<tr>	<td class="no" /><td class="no"> <br /> </td>										</tr>
+					<tr>	<td class="no" /><td class="no"> <center> VEGAS GOLDEN KNIGHTS</center> </td>							</tr>
+					<tr>	<td class="no" /><td class="no"> <center> GM: <a href="mailto:martybaroni@gmail.com" class="VGK"> MARTY </a> </center> </td>	</tr>
+					<tr>	<td class="no" /><td class="no"> <br /> </td>											</tr>
 				</table>
 				<table class="TeamRosterVGK">
 					<xsl:for-each select="GFHL/DB/Player[TEAM='VGK']">
@@ -947,9 +947,9 @@ a.colorforward	 {color:#FFFFFF;}
 			</td>
 			<td class="no" >
 				<table class="TeamTitleWPG">
-					<tr>	<td class="no" /><td class="no"> <center> WINNIPEG JETS </center> </td>							</tr>
-					<tr>	<td class="no" /><td class="no"> <center> GM: <a href="mailto:kyle.gartner@gmail.com"> KYLE </a> </center> </td>	</tr>
-					<tr>	<td class="no" /><td class="no"> <br /> </td>										</tr>
+					<tr>	<td class="no" /><td class="no"> <center> WINNIPEG JETS </center> </td>								</tr>
+					<tr>	<td class="no" /><td class="no"> <center> GM: <a href="mailto:kyle.gartner@gmail.com" class="WPG"> KYLE </a> </center> </td>	</tr>
+					<tr>	<td class="no" /><td class="no"> <br /> </td>											</tr>
 				</table>
 				<table class="TeamRosterWPG">
 					<xsl:for-each select="GFHL/DB/Player[TEAM='WPG']">
