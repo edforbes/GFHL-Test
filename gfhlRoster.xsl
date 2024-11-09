@@ -261,7 +261,7 @@ table.TeamTitleSEA {border-width: 0px;
 	border-collapse: collapse;
 	width: 285px;
 	background: #051C2C;
-	color: #9CDBD9;}
+	color: #6BA4B8;}
 
 table.TeamRosterSEA {border-width: 0px;
 	font-size: 14px;
