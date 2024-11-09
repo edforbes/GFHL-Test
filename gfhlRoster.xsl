@@ -84,7 +84,7 @@ table.TeamRosterCGY {border-width: 0px;
 	background-repeat: no-repeat;
 	background-image: url('image/Rosters/Calgary');
 	background-size: 285px 520px;
-	color: #F1BE48;}
+	color: #C8102E;}
 	
 table.TeamTitleCHI {border-width: 0px;
 	font-size: 14px;
@@ -93,7 +93,7 @@ table.TeamTitleCHI {border-width: 0px;
 	border-collapse: collapse;
 	width: 285px;
 	background: #C8102E;
-	color: #F1BE48;}
+	color: #010101;}
 
 table.TeamRosterCHI {border-width: 0px;
 	font-size: 14px;
@@ -105,7 +105,7 @@ table.TeamRosterCHI {border-width: 0px;
 	background-repeat: no-repeat;
 	background-image: url('image/Rosters/Chicago');
 	background-size: 285px 520px;
-	color: #F1BE48;}
+	color: #FFFFFF;}
 	
 table.TeamTitleCOL {border-width: 0px;
 	font-size: 14px;
@@ -122,11 +122,11 @@ table.TeamRosterCOL {border-width: 0px;
 	border-style: ridge;
 	border-collapse: collapse;
 	width: 285px;
-	background: #FFFFFF;
+	background: #236192;
 	background-repeat: no-repeat;
 	background-image: url('image/Rosters/Colorado');
 	background-size: 285px 520px;
-	color: #F1BE48;}
+	color: #236192;}
 
 table.TeamTitleDAL {border-width: 0px;
 	font-size: 14px;
@@ -134,8 +134,8 @@ table.TeamTitleDAL {border-width: 0px;
 	border-style: ridge;
 	border-collapse: collapse;
 	width: 285px;
-	background: #000000;
-	color: #89734C;}
+	background: #00843D;
+	color: #010101;}
 
 table.TeamRosterDAL {border-width: 0px;
 	font-size: 14px;
@@ -147,7 +147,7 @@ table.TeamRosterDAL {border-width: 0px;
 	background-repeat: no-repeat;
 	background-image: url('image/Rosters/Dallas');
 	background-size: 285px 520px;
-	color: #000000;}
+	color: #010101;}
 
 table.TeamTitleEDM {border-width: 0px;
 	font-size: 14px;
@@ -155,8 +155,8 @@ table.TeamTitleEDM {border-width: 0px;
 	border-style: ridge;
 	border-collapse: collapse;
 	width: 285px;
-	background: #C8102E;
-	color: #F1BE48;}
+	background: #00205B;
+	color: #CF4520;}
 
 table.TeamRosterEDM {border-width: 0px;
 	font-size: 14px;
@@ -168,7 +168,7 @@ table.TeamRosterEDM {border-width: 0px;
 	background-repeat: no-repeat;
 	background-image: url('image/Rosters/Edmonton');
 	background-size: 285px 520px;
-	color: #F1BE48;}
+	color: #00205B;}
 	
 table.TeamTitleLA {border-width: 0px;
 	font-size: 14px;
@@ -176,8 +176,8 @@ table.TeamTitleLA {border-width: 0px;
 	border-style: ridge;
 	border-collapse: collapse;
 	width: 285px;
-	background: #C8102E;
-	color: #F1BE48;}
+	background: #010101;
+	color: #A2AAAD;}
 
 table.TeamRosterLA {border-width: 0px;
 	font-size: 14px;
@@ -189,7 +189,7 @@ table.TeamRosterLA {border-width: 0px;
 	background-repeat: no-repeat;
 	background-image: url('image/Rosters/LosAngeles');
 	background-size: 285px 520px;
-	color: #F1BE48;}
+	color: #010101;}
 	
 table.TeamTitleMIN {border-width: 0px;
 	font-size: 14px;
@@ -197,8 +197,8 @@ table.TeamTitleMIN {border-width: 0px;
 	border-style: ridge;
 	border-collapse: collapse;
 	width: 285px;
-	background: #C8102E;
-	color: #F1BE48;}
+	background: #154734;
+	color: #EAAA00;}
 
 table.TeamRosterMIN {border-width: 0px;
 	font-size: 14px;
@@ -210,7 +210,7 @@ table.TeamRosterMIN {border-width: 0px;
 	background-repeat: no-repeat;
 	background-image: url('image/Rosters/Minnesota');
 	background-size: 285px 520px;
-	color: #F1BE48;}
+	color: #EAAA00;}
 
 table.TeamTitleNSH {border-width: 0px;
 	font-size: 14px;
@@ -218,8 +218,8 @@ table.TeamTitleNSH {border-width: 0px;
 	border-style: ridge;
 	border-collapse: collapse;
 	width: 285px;
-	background: #000000;
-	color: #89734C;}
+	background: #FFB81C;
+	color: #041E42;}
 
 table.TeamRosterNSH {border-width: 0px;
 	font-size: 14px;
@@ -231,7 +231,7 @@ table.TeamRosterNSH {border-width: 0px;
 	background-repeat: no-repeat;
 	background-image: url('image/Rosters/Nashville');
 	background-size: 285px 520px;
-	color: #000000;}
+	color: #041E42;}
 
 table.TeamTitleSJ {border-width: 0px;
 	font-size: 14px;
@@ -239,8 +239,8 @@ table.TeamTitleSJ {border-width: 0px;
 	border-style: ridge;
 	border-collapse: collapse;
 	width: 285px;
-	background: #C8102E;
-	color: #F1BE48;}
+	background: #006271;
+	color: #010101;}
 
 table.TeamRosterSJ {border-width: 0px;
 	font-size: 14px;
@@ -252,7 +252,7 @@ table.TeamRosterSJ {border-width: 0px;
 	background-repeat: no-repeat;
 	background-image: url('image/Rosters/SanJose');
 	background-size: 285px 520px;
-	color: #F1BE48;}
+	color: #010101;}
 	
 table.TeamTitleSEA {border-width: 0px;
 	font-size: 14px;
@@ -260,8 +260,8 @@ table.TeamTitleSEA {border-width: 0px;
 	border-style: ridge;
 	border-collapse: collapse;
 	width: 285px;
-	background: #C8102E;
-	color: #F1BE48;}
+	background: #051C2C;
+	color: #9CDBD9;}
 
 table.TeamRosterSEA {border-width: 0px;
 	font-size: 14px;
@@ -273,7 +273,7 @@ table.TeamRosterSEA {border-width: 0px;
 	background-repeat: no-repeat;
 	background-image: url('image/Rosters/Seattle');
 	background-size: 285px 520px;
-	color: #F1BE48;}
+	color: #051C2C;}
 	
 table.TeamTitleSTL {border-width: 0px;
 	font-size: 14px;
@@ -281,8 +281,8 @@ table.TeamTitleSTL {border-width: 0px;
 	border-style: ridge;
 	border-collapse: collapse;
 	width: 285px;
-	background: #C8102E;
-	color: #F1BE48;}
+	background: #003087;
+	color: #FFB81C;}
 
 table.TeamRosterSTL {border-width: 0px;
 	font-size: 14px;
@@ -294,7 +294,7 @@ table.TeamRosterSTL {border-width: 0px;
 	background-repeat: no-repeat;
 	background-image: url('image/Rosters/StLouis');
 	background-size: 285px 520px;
-	color: #F1BE48;}
+	color: #003087;}
 
 table.TeamTitleUTA {border-width: 0px;
 	font-size: 14px;
@@ -302,8 +302,8 @@ table.TeamTitleUTA {border-width: 0px;
 	border-style: ridge;
 	border-collapse: collapse;
 	width: 285px;
-	background: #000000;
-	color: #89734C;}
+	background: #69B3E7;
+	color: #010101;}
 
 table.TeamRosterUTA {border-width: 0px;
 	font-size: 14px;
@@ -315,7 +315,7 @@ table.TeamRosterUTA {border-width: 0px;
 	background-repeat: no-repeat;
 	background-image: url('image/Rosters/Utah');
 	background-size: 285px 520px;
-	color: #000000;}
+	color: #010101;}
 
 table.TeamTitleVAN {border-width: 0px;
 	font-size: 14px;
@@ -323,8 +323,8 @@ table.TeamTitleVAN {border-width: 0px;
 	border-style: ridge;
 	border-collapse: collapse;
 	width: 285px;
-	background: #C8102E;
-	color: #F1BE48;}
+	background: #00205B;
+	color: #00843D;}
 
 table.TeamRosterVAN {border-width: 0px;
 	font-size: 14px;
@@ -336,7 +336,7 @@ table.TeamRosterVAN {border-width: 0px;
 	background-repeat: no-repeat;
 	background-image: url('image/Rosters/Vancouver');
 	background-size: 285px 520px;
-	color: #F1BE48;}
+	color: #00205B;}
 	
 table.TeamTitleVGK {border-width: 0px;
 	font-size: 14px;
@@ -344,8 +344,8 @@ table.TeamTitleVGK {border-width: 0px;
 	border-style: ridge;
 	border-collapse: collapse;
 	width: 285px;
-	background: #C8102E;
-	color: #F1BE48;}
+	background: #B9975B;
+	color: #333F48;}
 
 table.TeamRosterVGK {border-width: 0px;
 	font-size: 14px;
@@ -357,7 +357,7 @@ table.TeamRosterVGK {border-width: 0px;
 	background-repeat: no-repeat;
 	background-image: url('image/Rosters/Vegas');
 	background-size: 285px 520px;
-	color: #F1BE48;}
+	color: #010101;}
 	
 table.TeamTitleWPG {border-width: 0px;
 	font-size: 14px;
@@ -365,8 +365,8 @@ table.TeamTitleWPG {border-width: 0px;
 	border-style: ridge;
 	border-collapse: collapse;
 	width: 285px;
-	background: #C8102E;
-	color: #F1BE48;}
+	background: #041E42;
+	color: #A2AAAD;}
 
 table.TeamRosterWPG {border-width: 0px;
 	font-size: 14px;
@@ -378,7 +378,7 @@ table.TeamRosterWPG {border-width: 0px;
 	background-repeat: no-repeat;
 	background-image: url('image/Rosters/Winnipeg');
 	background-size: 285px 520px;
-	color: #F1BE48;}
+	color: #041E42;}
 
 
 td.no  {border-width: 0px;
@@ -409,14 +409,11 @@ a.colorforward	 {color:#FFFFFF;}
 </head>
 
 <body>
-	<table class="noborder">
-		<tr><td class="no" >
-	<center> <b> Western Rosters </b> </center>
-		</td></tr>
-	</table>
+	<center> <h2> Western Rosters </h2> </center>
 	<p />
 	<p />
 	<p />
+	<center>
 	<table class="noborder">
 		<tr>
 			<td class="no" >
@@ -969,9 +966,7 @@ a.colorforward	 {color:#FFFFFF;}
 		
 		</tr>
 	</table>
-
-
-	
+	</center>
 </body>
 </html>
 </xsl:template> 
