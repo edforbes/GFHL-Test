@@ -399,7 +399,7 @@ a:hover, a:active {
 	text-decoration: none;
 	}
 
-a.ANA		 {color:#89734C;}
+a.ANA		 {color:#010101;}
 a.CGY		 {color:#F1BE48;}
 a.CHI		 {color:#010101;}
 a.COL		 {color:#236192;}
