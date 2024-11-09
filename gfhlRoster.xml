@@ -148,7 +148,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=187682</WEB>
 			<TEAM>NSH</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>21</SLOT>
 		</Player>
 		<Player>
 			<NAME>UNGAR, CONNOR</NAME>
@@ -1114,7 +1114,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=240680</WEB>
 			<TEAM>SJ</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>8</SLOT>
 		</Player>
 		<Player>
 			<NAME>DVORSKY, DALIBOR</NAME>
@@ -1583,7 +1583,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=227346</WEB>
 			<TEAM>SJ</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>7</SLOT>
 		</Player>
 		<Player><NAME>BENNING, MICHAEL</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=215692</WEB>
@@ -1835,7 +1835,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=238275</WEB>
 			<TEAM>SJ</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>3</SLOT>
 		</Player>
 		<Player><NAME>NEMEC, SIMON</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=226799</WEB>
@@ -2021,7 +2021,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=180618</WEB>
 			<TEAM>NSH</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>2</SLOT>
 		</Player>
 		<Player><NAME>MIKKOLA, NIKO</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=176927</WEB>
@@ -2513,7 +2513,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=170104</WEB>
 			<TEAM>NSH</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>10</SLOT>
 		</Player>
 		<Player><NAME>RATY, AATU</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=227734</WEB>
@@ -2723,7 +2723,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=177566</WEB>
 			<TEAM>NSH</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>18</SLOT>
 		</Player>
 		<Player><NAME>BLACKWELL, COLIN</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=143113</WEB>
@@ -3455,7 +3455,7 @@
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=165972</WEB>
 			<TEAM>NSH</TEAM>
 			<POS>DEF</POS>
-			<SLOT>1</SLOT>
+			<SLOT>11</SLOT>
 		</Player>
 		<Player><NAME>HARKINS, JANSEN</NAME>
 			<WEB>https://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=161793</WEB>
@@ -3725,7 +3725,7 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=172951</WEB>
 			<TEAM>SJ</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>5</SLOT>
 		</Player>
 		<Player><NAME>ROBINSON, ERIC</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=170338</WEB>
@@ -3821,7 +3821,7 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=198141</WEB>
 			<TEAM>SJ</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>4</SLOT>
 		</Player>
 		<Player><NAME>HICKETTS, JOE</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=146172</WEB>
@@ -4319,7 +4319,7 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=209481</WEB>
 			<TEAM>SJ</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>9</SLOT>
 		</Player>
 		<Player><NAME>PROKHORKIN, NIKOLAY</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=139635</WEB>
@@ -4481,7 +4481,7 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=145526</WEB>
 			<TEAM>NSH</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>4</SLOT>
 		</Player>
 		<Player><NAME>MOORE, TREVOR</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=145526</WEB>
@@ -5051,7 +5051,7 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=105394</WEB>
 			<TEAM>NSH</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>24</SLOT>
 		</Player>
 		<Player><NAME>STAMKOS, STEVEN</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=96607</WEB>
@@ -5213,7 +5213,7 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=115984</WEB>
 			<TEAM>NSH</TEAM>
 			<POS>DEF</POS>
-			<SLOT>1</SLOT>
+			<SLOT>14</SLOT>
 		</Player>
 		<Player><NAME>GIBSON, JOHN</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=123445</WEB>
@@ -5477,7 +5477,7 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=147658</WEB>
 			<TEAM>NSH</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>9</SLOT>
 		</Player>
 		<Player><NAME>WENNBERG, ALEXANDER</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=152767</WEB>
@@ -5495,13 +5495,13 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=172649</WEB>
 			<TEAM>NSH</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>7</SLOT>
 		</Player>
 		<Player><NAME>BRATT, JESPER</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=180836</WEB>
 			<TEAM>NSH</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>>
+			<SLOT>8</SLOT>>
 		</Player>
 		<Player><NAME>JOKIHARJU, HENRI</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=196298</WEB>
@@ -5513,13 +5513,13 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=177791</WEB>
 			<TEAM>NSH</TEAM>
 			<POS>DEF</POS>
-			<SLOT>1</SLOT>
+			<SLOT>13</SLOT>
 		</Player>
 		<Player><NAME>DAHLIN, RASMUS</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=201658</WEB>
 			<TEAM>NSH</TEAM>
 			<POS>DEF</POS>
-			<SLOT>1</SLOT>
+			<SLOT>15</SLOT>
 		</Player>
 		<Player><NAME>AHO, SEBASTIAN</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=164509</WEB>
@@ -5543,7 +5543,7 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=181052</WEB>
 			<TEAM>NSH</TEAM>
 			<POS>GLT</POS>
-			<SLOT>1</SLOT>
+			<SLOT>20</SLOT>
 		</Player>
 		<Player><NAME>SUZUKI, NICK</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=187477</WEB>
@@ -5561,7 +5561,7 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=145157</WEB>
 			<TEAM>NSH</TEAM>
 			<POS>GLT</POS>
-			<SLOT>1</SLOT>
+			<SLOT>19</SLOT>
 		</Player>
 		<Player><NAME>HOWDEN, BRETT</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=171615</WEB>
@@ -6023,7 +6023,7 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=59656</WEB>
 			<TEAM>NSH</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>17</SLOT>
 		</Player>
 		<Player><NAME>BINNINGTON, JORDAN</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=121736</WEB>
@@ -6077,7 +6077,7 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=148882</WEB>
 			<TEAM>NSH</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>22</SLOT>
 		</Player>
 		<Player><NAME>MEIER, TIMO</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=169615</WEB>
@@ -6113,7 +6113,7 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=122857</WEB>
 			<TEAM>NSH</TEAM>
 			<POS>DEF</POS>
-			<SLOT>1</SLOT>
+			<SLOT>12</SLOT>
 		</Player>
 		<Player><NAME>DE HAAN, CALVIN</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=116024</WEB>
@@ -6161,7 +6161,7 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=187581</WEB>
 			<TEAM>SJ</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>2</SLOT>
 		</Player>
 		<Player><NAME>KAUT, MARTIN</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=196675</WEB>
@@ -6179,7 +6179,7 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=138947</WEB>
 			<TEAM>fa</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>10</SLOT>
 		</Player>
 		<Player><NAME>PERLINI, BRENDAN</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=161291</WEB>
@@ -6257,7 +6257,7 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=145443</WEB>
 			<TEAM>NSH</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>6</SLOT>
 		</Player>
 		<Player><NAME>SKINNER, JEFF</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=116085</WEB>
@@ -6521,7 +6521,7 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=161716</WEB>
 			<TEAM>NSH</TEAM>
 			<POS>DEF</POS>
-			<SLOT>1</SLOT>
+			<SLOT>16</SLOT>
 		</Player>
 		<Player><NAME>KLINGBERG, JOHN</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=127778</WEB>
@@ -7031,7 +7031,7 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=196035</WEB>
 			<TEAM>SJ</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>6</SLOT>
 		</Player>
 		<Player><NAME>KOSTIN, KLIM</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=195511</WEB>
@@ -7247,7 +7247,7 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=187550</WEB>
 			<TEAM>NSH</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>3</SLOT>
 		</Player>
 		<Player><NAME>LEWIS, TREVOR</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=81078</WEB>
@@ -7361,7 +7361,7 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=98634</WEB>
 			<TEAM>NSH</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>23</SLOT>
 		</Player>
 		<Player><NAME>WOOD, MILES</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=168007</WEB>
@@ -7505,7 +7505,7 @@
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=130548</WEB>
 			<TEAM>NSH</TEAM>
 			<POS>FWD</POS>
-			<SLOT>1</SLOT>
+			<SLOT>5</SLOT>
 		</Player>
 		<Player><NAME>POINT, BRAYDEN</NAME>
 			<WEB>http://www.hockeydb.com/ihdb/stats/pdisplay.php?pid=151992</WEB>
