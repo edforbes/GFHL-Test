@@ -63,7 +63,7 @@ table.TeamRosterANA {border-width: 0px;
 	background-repeat: no-repeat;
 	background-image: url('image/Rosters/Anaheim');
 	background-size: 285px 520px;
-	opacity: 0.3;
+	opacity: 0.7;
 	color: #CF4520;}
 
 table.TeamTitleCGY {border-width: 0px;
@@ -475,7 +475,7 @@ a.colorforward	 {color:#FFFFFF;}
 								</xsl:choose>
 							</td>
 					                <td class="no">
-								<xsl:value-of select="NAME"/>
+								<b><xsl:value-of select="NAME"/></b>
 							</td>
 						</tr>
 					</xsl:for-each>
