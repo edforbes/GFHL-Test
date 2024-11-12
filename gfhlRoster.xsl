@@ -59,12 +59,12 @@ table.TeamRosterANA {border-width: 0px;
 	border-style: ridge;
 	border-collapse: collapse;
 	width: 300px;
-	background: #FFFFFF;
+	background: #CF4520;
 	background-repeat: no-repeat;
 	background-image: url('image/Rosters/Anaheim');
 	background-size: 285px 520px;
 	background-blend-mode: lighten;
-	color: #FFFFFF;}
+	color: #010101;}
 
 table.TeamTitleCGY {border-width: 0px;
 	font-size: 14px;
