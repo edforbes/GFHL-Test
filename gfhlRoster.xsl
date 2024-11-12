@@ -49,7 +49,7 @@ table.TeamTitleANA {border-width: 0px;
 	font-family: Verdana, sans-serif;
 	border-style: ridge;
 	border-collapse: collapse;
-	width: 285px;
+	width: 300px;
 	background: #CF4520;
 	color: #010101;}
 
@@ -58,7 +58,7 @@ table.TeamRosterANA {border-width: 0px;
 	font-family: Verdana, sans-serif;
 	border-style: ridge;
 	border-collapse: collapse;
-	width: 285px;
+	width: 300px;
 	background: #FFFFFF;
 	background-repeat: no-repeat;
 	background-image: url('image/Rosters/Anaheim');
