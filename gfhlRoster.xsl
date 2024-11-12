@@ -63,8 +63,8 @@ table.TeamRosterANA {border-width: 0px;
 	background-repeat: no-repeat;
 	background-image: url('image/Rosters/Anaheim');
 	background-size: 285px 520px;
-	opacity: 0.7;
-	color: #CF4520;}
+	opacity: 0.3;
+	color: #89734C;}
 
 table.TeamTitleCGY {border-width: 0px;
 	font-size: 14px;
@@ -86,7 +86,7 @@ table.TeamRosterCGY {border-width: 0px;
 	background-image: url('image/Rosters/Calgary');
 	background-size: 285px 520px;
 	opacity: 0.3;
-	color: #C8102E;}
+	color: #F1BE48;}
 	
 table.TeamTitleCHI {border-width: 0px;
 	font-size: 14px;
@@ -108,7 +108,7 @@ table.TeamRosterCHI {border-width: 0px;
 	background-image: url('image/Rosters/Chicago');
 	background-size: 285px 520px;
 	opacity: 0.3;
-	color: #C8102E;}
+	color: #CC8A00;}
 	
 table.TeamTitleCOL {border-width: 0px;
 	font-size: 14px;
@@ -130,7 +130,7 @@ table.TeamRosterCOL {border-width: 0px;
 	background-image: url('image/Rosters/Colorado');
 	background-size: 285px 520px;
 	opacity: 0.3;
-	color: #236192;}
+	color: #A2AAAD;}
 
 table.TeamTitleDAL {border-width: 0px;
 	font-size: 14px;
