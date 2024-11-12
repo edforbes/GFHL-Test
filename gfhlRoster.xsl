@@ -59,7 +59,7 @@ table.TeamRosterANA {border-width: 0px;
 	border-style: ridge;
 	border-collapse: collapse;
 	width: 300px;
-	background: #CF4520;
+	background: #89734C;
 	background-repeat: no-repeat;
 	background-image: url('image/Rosters/Anaheim');
 	background-size: 285px 520px;
@@ -85,6 +85,7 @@ table.TeamRosterCGY {border-width: 0px;
 	background-repeat: no-repeat;
 	background-image: url('image/Rosters/Calgary');
 	background-size: 285px 520px;
+	background-blend-mode: multiply;
 	opacity: 0.3;
 	color: #FFFFFF;}
 	
