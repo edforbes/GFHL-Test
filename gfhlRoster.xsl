@@ -130,7 +130,7 @@ table.TeamRosterCOL {border-width: 0px;
 	background-image: url('image/Rosters/Colorado');
 	background-size: 285px 520px;
 	background-blend-mode: multiply;
-	color: #FFFFFF;}
+	color: #010101;}
 
 table.TeamTitleDAL {border-width: 0px;
 	font-size: 14px;
