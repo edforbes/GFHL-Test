@@ -39,7 +39,8 @@ table.noborder {border-width: 0px;
 
 table.team {border-width: 0px;
 	font-size: 14px;
-	font-family: Verdana, sans-serif; 
+	font-family: Verdana, sans-serif;
+	font-weight: bold;
 	border-style: ridge;
 	border-collapse: collapse;
 	width: 285px}
@@ -49,6 +50,7 @@ table.TeamTitleANA {border-width: 0px;
 	font-family: Verdana, sans-serif;
 	border-style: ridge;
 	border-collapse: collapse;
+	font-weight: bold;
 	width: 300px;
 	background: #CF4520;
 	color: #010101;}
@@ -64,11 +66,12 @@ table.TeamRosterANA {border-width: 0px;
 	background-image: url('image/Rosters/Anaheim');
 	background-size: 285px 520px;
 	background-blend-mode: multiply;
-	color: #010101;}
+	color: #FFFFFF;}
 
 table.TeamTitleCGY {border-width: 0px;
 	font-size: 14px;
 	font-family: Verdana, sans-serif;
+	font-weight: bold;
 	border-style: ridge;
 	border-collapse: collapse;
 	width: 285px;
@@ -80,6 +83,7 @@ table.TeamRosterCGY {border-width: 0px;
 	font-family: Verdana, sans-serif;
 	border-style: ridge;
 	border-collapse: collapse;
+	font-weight: bold;
 	width: 285px;
 	background: #FFFFFF;
 	background-repeat: no-repeat;
@@ -91,6 +95,7 @@ table.TeamRosterCGY {border-width: 0px;
 table.TeamTitleCHI {border-width: 0px;
 	font-size: 14px;
 	font-family: Verdana, sans-serif;
+	font-weight: bold;
 	border-style: ridge;
 	border-collapse: collapse;
 	width: 285px;
@@ -100,6 +105,7 @@ table.TeamTitleCHI {border-width: 0px;
 table.TeamRosterCHI {border-width: 0px;
 	font-size: 14px;
 	font-family: Verdana, sans-serif;
+	font-weight: bold;
 	border-style: ridge;
 	border-collapse: collapse;
 	width: 285px;
@@ -113,6 +119,7 @@ table.TeamRosterCHI {border-width: 0px;
 table.TeamTitleCOL {border-width: 0px;
 	font-size: 14px;
 	font-family: Verdana, sans-serif;
+	font-weight: bold;
 	border-style: ridge;
 	border-collapse: collapse;
 	width: 285px;
@@ -122,6 +129,7 @@ table.TeamTitleCOL {border-width: 0px;
 table.TeamRosterCOL {border-width: 0px;
 	font-size: 14px;
 	font-family: Verdana, sans-serif;
+	font-weight: bold;
 	border-style: ridge;
 	border-collapse: collapse;
 	width: 285px;
@@ -135,6 +143,7 @@ table.TeamRosterCOL {border-width: 0px;
 table.TeamTitleDAL {border-width: 0px;
 	font-size: 14px;
 	font-family: Verdana, sans-serif;
+	font-weight: bold;
 	border-style: ridge;
 	border-collapse: collapse;
 	width: 285px;
@@ -144,6 +153,7 @@ table.TeamTitleDAL {border-width: 0px;
 table.TeamRosterDAL {border-width: 0px;
 	font-size: 14px;
 	font-family: Verdana, sans-serif;
+	font-weight: bold;
 	border-style: ridge;
 	border-collapse: collapse;
 	width: 285px;
@@ -475,7 +485,7 @@ a.colorforward	 {color:#FFFFFF;}
 								</xsl:choose>
 							</td>
 					                <td class="no">
-								<b><xsl:value-of select="NAME"/></b>
+								<xsl:value-of select="NAME"/>
 							</td>
 						</tr>
 					</xsl:for-each>
