@@ -48,9 +48,9 @@ table.team {border-width: 0px;
 table.TeamTitleANA {border-width: 0px;
 	font-size: 14px;
 	font-family: Verdana, sans-serif;
+	font-weight: bold;
 	border-style: ridge;
 	border-collapse: collapse;
-	font-weight: bold;
 	width: 300px;
 	background: #CF4520;
 	color: #010101;}
@@ -58,6 +58,7 @@ table.TeamTitleANA {border-width: 0px;
 table.TeamRosterANA {border-width: 0px;
 	font-size: 14px;
 	font-family: Verdana, sans-serif;
+	font-weight: bold;
 	border-style: ridge;
 	border-collapse: collapse;
 	width: 300px;
@@ -81,16 +82,16 @@ table.TeamTitleCGY {border-width: 0px;
 table.TeamRosterCGY {border-width: 0px;
 	font-size: 14px;
 	font-family: Verdana, sans-serif;
+	font-weight: bold;
 	border-style: ridge;
 	border-collapse: collapse;
-	font-weight: bold;
 	width: 285px;
-	background: #C8102E;
+	background: #FFFFFF;
 	background-repeat: no-repeat;
 	background-image: url('image/Rosters/Calgary');
 	background-size: 285px 520px;
 	background-blend-mode: multiply;
-	color: #000000;}
+	color: #F1BE48;}
 	
 table.TeamTitleCHI {border-width: 0px;
 	font-size: 14px;
