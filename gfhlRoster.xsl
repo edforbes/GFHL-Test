@@ -85,7 +85,7 @@ table.TeamRosterCGY {border-width: 0px;
 	border-collapse: collapse;
 	font-weight: bold;
 	width: 285px;
-	background: #FFFFFF;
+	background: #C8102E;
 	background-repeat: no-repeat;
 	background-image: url('image/Rosters/Calgary');
 	background-size: 285px 520px;
