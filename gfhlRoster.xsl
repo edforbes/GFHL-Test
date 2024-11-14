@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?> 
+ited)<?xml version="1.0" encoding="utf-8"?> 
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform"> 
 <xsl:output method="html" version="4.0" /> 
 <xsl:template match="/">    
@@ -64,7 +64,7 @@ table.TeamRosterANA {border-width: 0px;
 	width: 300px;
 	background: #000000;
 	background-repeat: no-repeat;
-	background-image: url('image/Rosters/Anaheim');
+	background-image: url('image/Rosters/Anaheim(Edited).png');
 	background-size: 285px 520px;
 	background-blend-mode: difference;
 	color: #FFFFFF;}
@@ -88,7 +88,7 @@ table.TeamRosterCGY {border-width: 0px;
 	width: 285px;
 	background: #FFFFFF;
 	background-repeat: no-repeat;
-	background-image: url('image/Rosters/Calgary');
+	background-image: url('image/Rosters/Calgary(Edited).png');
 	background-size: 285px 520px;
 	background-blend-mode: multiply;
 	color: #F1BE48;}
