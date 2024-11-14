@@ -77,7 +77,7 @@ table.TeamTitleCGY {border-width: 0px;
 	border-collapse: collapse;
 	width: 285px;
 	background: #C8102E;
-	color: #000000;}
+	color: #010101;}
 
 table.TeamRosterCGY {border-width: 0px;
 	font-size: 14px;
@@ -91,7 +91,7 @@ table.TeamRosterCGY {border-width: 0px;
 	background-image: url('image/Rosters/Calgary(Edited).png');
 	background-size: 285px 520px;
 	background-blend-mode: multiply;
-	color: #F1BE48;}
+	color: #C8102E;}
 	
 table.TeamTitleCHI {border-width: 0px;
 	font-size: 14px;
@@ -427,7 +427,7 @@ a:hover, a:active {
 	}
 
 a.ANA		 {color:#010101;}
-a.CGY		 {color:#F1BE48;}
+a.CGY		 {color:#010101;}
 a.CHI		 {color:#010101;}
 a.COL		 {color:#236192;}
 a.DAL		 {color:#010101;}
